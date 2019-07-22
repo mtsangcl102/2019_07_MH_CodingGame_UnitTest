@@ -1,0 +1,28 @@
+{
+  "name": "heroku-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/App.js",
+  "dependencies": {
+    "debug": "^4.1.1",
+    "socket.io": "^2.2.0",
+    "socket.io-client": "^2.2.0"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.1.7",
+    "@types/mocha": "^5.2.6",
+    "@types/node": "^11.13.5",
+    "@types/socket.io": "^2.1.2",
+    "@types/socket.io-client": "^1.4.32",
+    "@types/debug": "^4.1.4",
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4",
+    "ts-node": "^8.1.0",
+    "typescript": "^3.4.5"
+  },
+  "scripts": {
+    "test local": "DEBUG=app* HOST=http://127.0.0.1:10003 mocha --exit --timeout 10000 -r ts-node/register tests/*.ts",
+    "test prod": "DEBUG=app* HOST=https://blooming-fjord-24277.herokuapp.com mocha --exit --timeout 10000 -r ts-node/register tests/*.ts",
+    "start server": "node ./src/ScoketServer.js"
+  }
+}

@@ -1,0 +1,1927 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8faaf0c4-5830-4e6d-8d12-08c37275339a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Tests/GameClient.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="106">
+              <caret line="219" column="10" lean-forward="true" selection-start-line="219" selection-start-column="10" selection-end-line="219" selection-end-column="10" />
+              <folding>
+                <marker date="1562846169344" expanded="true" signature="6:238" ph="..." />
+                <marker date="1562846169344" expanded="true" signature="267:373" ph="{...}" />
+                <marker date="1562846169344" expanded="true" signature="400:456" ph="{...}" />
+                <marker date="1562846169344" expanded="true" signature="483:525" ph="{...}" />
+                <marker date="1562846169344" expanded="true" signature="550:6758" ph="{...}" />
+                <marker date="1562846169344" expanded="true" signature="941:1001" ph="{...}" />
+                <marker date="1562846169344" expanded="true" signature="1079:1303" ph="{...}" />
+                <marker date="1562846169344" expanded="true" signature="1378:1614" ph="{...}" />
+                <marker date="1562846169344" expanded="true" signature="1688:1888" ph="{...}" />
+                <marker date="1562846169344" expanded="true" signature="1962:4783" ph="{...}" />
+                <marker date="1562846169344" expanded="true" signature="2085:4777" ph="{...}" />
+                <marker date="1562846169344" expanded="true" signature="2241:2583" ph="{...}" />
+                <marker date="1562846169344" expanded="true" signature="2755:3100" ph="{...}" />
+                <marker date="1562846169344" expanded="true" signature="3270:3820" ph="{...}" />
+                <marker date="1562846169344" expanded="true" signature="3337:3499" ph="{...}" />
+                <marker date="1562846169344" expanded="true" signature="3524:3605" ph="{...}" />
+                <marker date="1562846169344" expanded="true" signature="3995:4197" ph="{...}" />
+                <marker date="1562846169344" expanded="true" signature="4368:4744" ph="{...}" />
+                <marker date="1562846169344" expanded="true" signature="4435:4726" ph="{...}" />
+                <marker date="1562846169344" expanded="true" signature="4829:5522" ph="{...}" />
+                <marker date="1562846169344" expanded="true" signature="5551:5622" ph="{...}" />
+                <marker date="1562846169344" expanded="true" signature="5649:5694" ph="{...}" />
+                <marker date="1562846169344" expanded="true" signature="5724:5772" ph="{...}" />
+                <marker date="1562846169344" expanded="true" signature="5823:5883" ph="{...}" />
+                <marker date="1562846169344" expanded="true" signature="5912:5959" ph="{...}" />
+                <marker date="1562846169344" expanded="true" signature="5993:6665" ph="{...}" />
+                <marker date="1562846169344" expanded="true" signature="6121:6630" ph="{...}" />
+                <marker date="1562846169344" expanded="true" signature="6187:6620" ph="{...}" />
+                <marker date="1562846169344" expanded="true" signature="6289:6502" ph="{...}" />
+                <marker date="1562846169344" expanded="true" signature="6703:6756" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Tests/TestConnection.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="155">
+              <caret line="99" column="53" lean-forward="true" selection-start-line="99" selection-start-column="53" selection-end-line="99" selection-end-column="53" />
+              <folding>
+                <marker date="1562730102312" expanded="false" signature="6:164" ph="..." />
+                <marker date="1562730102312" expanded="true" signature="181:5314" ph="{...}" />
+                <marker date="1562730102312" expanded="true" signature="232:302" ph="{...}" />
+                <marker date="1562730102312" expanded="true" signature="332:409" ph="{...}" />
+                <marker date="1562730102312" expanded="true" signature="446:5312" ph="{...}" />
+                <marker date="1562730102312" expanded="true" signature="934:1034" ph="{...}" />
+                <marker date="1562730102312" expanded="true" signature="1086:1357" ph="{...}" />
+                <marker date="1562730102312" expanded="true" signature="1430:2397" ph="{...}" />
+                <marker date="1562730102312" expanded="true" signature="1676:1780" ph="{...}" />
+                <marker date="1562730102312" expanded="true" signature="1797:2262" ph="{...}" />
+                <marker date="1562730102312" expanded="true" signature="2276:2356" ph="/* Use the Assert class to test conditions. ... */" />
+                <marker date="1562730102312" expanded="true" signature="2469:2567" ph="{...}" />
+                <marker date="1562730102312" expanded="true" signature="2634:2929" ph="{...}" />
+                <marker date="1562730102312" expanded="true" signature="2994:3620" ph="{...}" />
+                <marker date="1562730102312" expanded="true" signature="3690:5306" ph="{...}" />
+                <marker date="1562730102312" expanded="true" signature="4595:4717" ph="{...}" />
+                <marker date="1562730102312" expanded="true" signature="4782:4904" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Tests/GameClientHelper.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1749">
+              <caret line="66" column="30" selection-start-line="66" selection-start-column="30" selection-end-line="66" selection-end-column="30" />
+              <folding>
+                <marker date="1562846043750" expanded="true" signature="6:87" ph="..." />
+                <marker date="1562846043750" expanded="true" signature="137:6089" ph="{...}" />
+                <marker date="1562846043750" expanded="true" signature="216:925" ph="{...}" />
+                <marker date="1562846043750" expanded="true" signature="468:647" ph="{...}" />
+                <marker date="1562846043750" expanded="true" signature="1004:1710" ph="{...}" />
+                <marker date="1562846043750" expanded="true" signature="1256:1431" ph="{...}" />
+                <marker date="1562846043750" expanded="true" signature="1785:2292" ph="{...}" />
+                <marker date="1562846043750" expanded="true" signature="1924:2128" ph="{...}" />
+                <marker date="1562846043750" expanded="true" signature="1992:2118" ph="{...}" />
+                <marker date="1562846043750" expanded="true" signature="2367:2874" ph="{...}" />
+                <marker date="1562846043750" expanded="true" signature="2506:2711" ph="{...}" />
+                <marker date="1562846043750" expanded="true" signature="2575:2701" ph="{...}" />
+                <marker date="1562846043750" expanded="true" signature="2949:3550" ph="{...}" />
+                <marker date="1562846043750" expanded="true" signature="3143:3325" ph="{...}" />
+                <marker date="1562846043750" expanded="true" signature="3622:4131" ph="{...}" />
+                <marker date="1562846043750" expanded="true" signature="3761:3963" ph="{...}" />
+                <marker date="1562846043750" expanded="true" signature="3827:3953" ph="{...}" />
+                <marker date="1562846043750" expanded="true" signature="4205:4715" ph="{...}" />
+                <marker date="1562846043750" expanded="true" signature="4344:4548" ph="{...}" />
+                <marker date="1562846043750" expanded="true" signature="4412:4538" ph="{...}" />
+                <marker date="1562846043750" expanded="true" signature="4803:5312" ph="{...}" />
+                <marker date="1562846043750" expanded="true" signature="4942:5145" ph="{...}" />
+                <marker date="1562846043750" expanded="true" signature="5009:5135" ph="{...}" />
+                <marker date="1562846043750" expanded="true" signature="5407:5912" ph="{...}" />
+                <marker date="1562846043750" expanded="true" signature="5546:5749" ph="{...}" />
+                <marker date="1562846043750" expanded="true" signature="5613:5739" ph="{...}" />
+                <marker date="1562846043750" expanded="true" signature="6002:6087" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/ThirdParties/Best HTTP (Pro)/BestHTTP/WebSocket/WebSocketResponse.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-64">
+              <caret line="544" column="4" lean-forward="true" selection-start-line="544" selection-start-column="4" selection-end-line="544" selection-end-column="4" />
+              <folding>
+                <marker date="1555320042000" expanded="false" signature="73:235" ph="..." />
+                <marker date="1555320042000" expanded="true" signature="265:27880" ph="{...}" />
+                <marker date="1555320042000" expanded="true" signature="347:27878" ph="{...}" />
+                <marker date="1555320042000" expanded="true" signature="362:467" ph="/// Capacity of the RTT buffer where the latencies are kept. ... " />
+                <marker date="1555320042000" expanded="false" signature="526:2553" ph="Public Interface" />
+                <marker date="1555320042000" expanded="true" signature="560:687" ph="/// A reference to the original WebSocket instance. Used for accessing extensions. ... " />
+                <marker date="1555320042000" expanded="true" signature="755:839" ph="/// Called when a Text message received ... " />
+                <marker date="1555320042000" expanded="true" signature="906:992" ph="/// Called when a Binary message received ... " />
+                <marker date="1555320042000" expanded="true" signature="1061:1206" ph="/// Called when an incomplete frame received. No attempt will be made to reassemble these fragments. ... " />
+                <marker date="1555320042000" expanded="true" signature="1298:1381" ph="/// Called when the connection closed. ... " />
+                <marker date="1555320042000" expanded="true" signature="1458:1571" ph="/// Indicates whether the connection to the server is closed or not. ... " />
+                <marker date="1555320042000" expanded="true" signature="1637:1741" ph="/// On what frequency we have to send a ping to the server. ... " />
+                <marker date="1555320042000" expanded="true" signature="1811:1930" ph="/// Maximum size of a fragment's payload data. Its default value is 32767. ... " />
+                <marker date="1555320042000" expanded="true" signature="2000:2093" ph="/// Length of unsent, buffered up data in bytes. ... " />
+                <marker date="1555320042000" expanded="true" signature="2215:2336" ph="/// Calculated latency from the Round-Trip Times we store in the rtts field. ... " />
+                <marker date="1555320042000" expanded="true" signature="2395:2476" ph="/// When we received the last frame. ... " />
+                <marker date="1555320042000" expanded="false" signature="2563:3934" ph="Private Fields" />
+                <marker date="1555320042000" expanded="true" signature="3246:3344" ph="/// True if we sent out a Close message to the server ... " />
+                <marker date="1555320042000" expanded="true" signature="3395:3487" ph="/// True if this WebSocket connection is closed ... " />
+                <marker date="1555320042000" expanded="true" signature="3535:3615" ph="/// When we sent out the last ping. ... " />
+                <marker date="1555320042000" expanded="true" signature="3680:3809" ph="/// A circular buffer to store the last N rtt times calculated by the pong messages. ... " />
+                <marker date="1555320042000" expanded="true" signature="4102:4244" ph="{...}" />
+                <marker date="1555320042000" expanded="true" signature="4282:4626" ph="{...}" />
+                <marker date="1555320042000" expanded="true" signature="4320:4616" ph="{...}" />
+                <marker date="1555320042000" expanded="true" signature="4663:4842" ph="{...}" />
+                <marker date="1555320042000" expanded="false" signature="4852:12053" ph="Public interface for interacting with the server" />
+                <marker date="1555320042000" expanded="true" signature="4918:5025" ph="/// It will send the given message to the server in one frame. ... " />
+                <marker date="1555320042000" expanded="true" signature="5066:6124" ph="{...}" />
+                <marker date="1555320042000" expanded="true" signature="5617:6016" ph="{...}" />
+                <marker date="1555320042000" expanded="true" signature="6134:6238" ph="/// It will send the given data to the server in one frame. ... " />
+                <marker date="1555320042000" expanded="true" signature="6276:7032" ph="{...}" />
+                <marker date="1555320042000" expanded="true" signature="6578:6976" ph="{...}" />
+                <marker date="1555320042000" expanded="true" signature="7042:7153" ph="/// Will send count bytes from a byte array, starting from offset. ... " />
+                <marker date="1555320042000" expanded="true" signature="7218:8144" ph="{...}" />
+                <marker date="1555320042000" expanded="true" signature="7688:8088" ph="{...}" />
+                <marker date="1555320042000" expanded="true" signature="8154:8246" ph="/// It will send the given frame to the server. ... " />
+                <marker date="1555320042000" expanded="true" signature="8293:9331" ph="{...}" />
+                <marker date="1555320042000" expanded="true" signature="8593:9008" ph="{...}" />
+                <marker date="1555320042000" expanded="true" signature="9135:9286" ph="/* if (HTTPManager.Logger.Level &lt;= Logger.Loglevels.All) ... */" />
+                <marker date="1555320042000" expanded="true" signature="9341:9492" ph="/// It will send the given frame to the server by inserting the frame into the queue as the first element. ... " />
+                <marker date="1555320042000" expanded="true" signature="9541:10422" ph="{...}" />
+                <marker date="1555320042000" expanded="true" signature="9847:10264" ph="{...}" />
+                <marker date="1555320042000" expanded="true" signature="10473:10836" ph="{...}" />
+                <marker date="1555320042000" expanded="true" signature="10690:10813" ph="{...}" />
+                <marker date="1555320042000" expanded="true" signature="10846:10956" ph="/// It will initiate the closing of the connection to the server. ... " />
+                <marker date="1555320042000" expanded="true" signature="10984:11037" ph="{...}" />
+                <marker date="1555320042000" expanded="true" signature="11047:11157" ph="/// It will initiate the closing of the connection to the server. ... " />
+                <marker date="1555320042000" expanded="true" signature="11208:11542" ph="{...}" />
+                <marker date="1555320042000" expanded="true" signature="11591:12033" ph="{...}" />
+                <marker date="1555320042000" expanded="true" signature="12063:22050" ph="Private Threading Functions" />
+                <marker date="1555320042000" expanded="true" signature="12149:15058" ph="{...}" />
+                <marker date="1555320042000" expanded="true" signature="12250:14765" ph="{...}" />
+                <marker date="1555320042000" expanded="true" signature="12310:14751" ph="{...}" />
+                <marker date="1555320042000" expanded="true" signature="12349:12510" ph="/* if (HTTPManager.Logger.Level &lt;= Logger.Loglevels.All) ... */" />
+                <marker date="1555320042000" expanded="true" signature="12581:14250" ph="{...}" />
+                <marker date="1555320042000" expanded="true" signature="12992:13209" ph="/* if (HTTPManager.Logger.Level &lt;= Logger.Loglevels.All) ... */" />
+                <marker date="1555320042000" expanded="true" signature="13264:14187" ph="{...}" />
+                <marker date="1555320042000" expanded="true" signature="13495:14070" ph="{...}" />
+                <marker date="1555320042000" expanded="true" signature="13591:13742" ph="{...}" />
+                <marker date="1555320042000" expanded="true" signature="14290:14733" ph="{...}" />
+                <marker date="1555320042000" expanded="true" signature="14371:14562" ph="{...}" />
+                <marker date="1555320042000" expanded="true" signature="14785:15048" ph="{...}" />
+                <marker date="1555320042000" expanded="true" signature="15112:22030" ph="{...}" />
+                <marker date="1555320042000" expanded="true" signature="15138:21705" ph="{...}" />
+                <marker date="1555320042000" expanded="true" signature="15237:21691" ph="{...}" />
+                <marker date="1555320042000" expanded="true" signature="15291:21673" ph="{...}" />
+                <marker date="1555320042000" expanded="true" signature="15341:20718" ph="{...}" />
+                <marker date="1555320042000" expanded="true" signature="15598:15910" ph="/* A server MUST NOT mask any frames that it sends to the client.  A client MUST close a connection if it detects ... */" />
+                <marker date="1555320042000" expanded="true" signature="15957:16158" ph="{...}" />
+                <marker date="1555320042000" expanded="true" signature="16207:16555" ph="{...}" />
+                <marker date="1555320042000" expanded="true" signature="16604:20692" ph="{...}" />
+                <marker date="1555320042000" expanded="true" signature="16667:16904" ph="/* For a complete documentation and rules on fragmentation see http://tools.ietf.org/html/rfc6455##section-5.4 ... */" />
+                <marker date="1555320042000" expanded="true" signature="17217:17741" ph="{...}" />
+                <marker date="1555320042000" expanded="true" signature="18787:19571" ph="{...}" />
+                <marker date="1555320042000" expanded="true" signature="19650:20050" ph="{...}" />
+                <marker date="1555320042000" expanded="true" signature="19692:20012" ph="/* https://tools.ietf.org/html/rfc6455##section-5.5 ... */" />
+                <marker date="1555320042000" expanded="true" signature="20787:21068" ph="{...}" />
+                <marker date="1555320042000" expanded="true" signature="21119:21651" ph="{...}" />
+                <marker date="1555320042000" expanded="true" signature="21208:21414" ph="{...}" />
+                <marker date="1555320042000" expanded="true" signature="21725:22020" ph="{...}" />
+                <marker date="1555320042000" expanded="false" signature="22060:25516" ph="Sending Out Events" />
+                <marker date="1555320042000" expanded="true" signature="22096:22193" ph="/// Internal function to send out received messages. ... " />
+                <marker date="1555320042000" expanded="true" signature="22231:25496" ph="{...}" />
+                <marker date="1555320042000" expanded="true" signature="22481:24036" ph="{...}" />
+                <marker date="1555320042000" expanded="true" signature="22709:23858" ph="{...}" />
+                <marker date="1555320042000" expanded="true" signature="22767:23840" ph="{...}" />
+                <marker date="1555320042000" expanded="true" signature="23895:24022" ph="{...}" />
+                <marker date="1555320042000" expanded="true" signature="24083:24291" ph="/* 2015.05.09 ... */" />
+                <marker date="1555320042000" expanded="true" signature="24390:25486" ph="{...}" />
+                <marker date="1555320042000" expanded="true" signature="24424:25297" ph="{...}" />
+                <marker date="1555320042000" expanded="true" signature="24739:25225" ph="{...}" />
+                <marker date="1555320042000" expanded="true" signature="25334:25472" ph="{...}" />
+                <marker date="1555320042000" expanded="false" signature="25526:26306" ph="IHeartbeat Implementation" />
+                <marker date="1555320042000" expanded="true" signature="25616:26286" ph="{...}" />
+                <marker date="1555320042000" expanded="true" signature="25845:26276" ph="{...}" />
+                <marker date="1555320042000" expanded="true" signature="26379:26473" ph="{...}" />
+                <marker date="1555320042000" expanded="true" signature="26506:27109" ph="{...}" />
+                <marker date="1555320042000" expanded="true" signature="26573:26859" ph="{...}" />
+                <marker date="1555320042000" expanded="true" signature="26890:27099" ph="{...}" />
+                <marker date="1555320042000" expanded="true" signature="27162:27567" ph="{...}" />
+                <marker date="1555320042000" expanded="true" signature="27607:27872" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/ThirdParties/Best HTTP (Pro)/BestHTTP/SocketIO/SocketManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8">
+              <caret line="111" column="33" selection-start-line="111" selection-start-column="33" selection-end-line="111" selection-end-column="33" />
+              <folding>
+                <marker date="1555320154000" expanded="false" signature="38:213" ph="..." />
+                <marker date="1555320154000" expanded="true" signature="242:22819" ph="{...}" />
+                <marker date="1555320154000" expanded="true" signature="305:22817" ph="{...}" />
+                <marker date="1555320154000" expanded="true" signature="320:413" ph="/// Possible states of a SocketManager instance. ... " />
+                <marker date="1555320154000" expanded="true" signature="440:1317" ph="{...}" />
+                <marker date="1555320154000" expanded="true" signature="463:554" ph="/// Initial state of the SocketManager ... " />
+                <marker date="1555320154000" expanded="true" signature="589:713" ph="/// The SocketManager is closed, initiated by the user or by the server ... " />
+                <marker date="1555320154000" expanded="true" signature="747:843" ph="/// The SocketManager is currently opening. ... " />
+                <marker date="1555320154000" expanded="true" signature="878:995" ph="/// The SocketManager is open, events can be sent to the server. ... " />
+                <marker date="1555320154000" expanded="true" signature="1027:1112" ph="/// Paused for transport upgrade ... " />
+                <marker date="1555320154000" expanded="true" signature="1146:1282" ph="/// An error occurred, the SocketManager now trying to connect again to the server. ... " />
+                <marker date="1555320154000" expanded="true" signature="1327:1463" ph="/// The default Json encode/decoder that will be used to encode/decode the event arguments. ... " />
+                <marker date="1555320154000" expanded="true" signature="1551:1636" ph="/// Supported Socket.IO protocol version ... " />
+                <marker date="1555320154000" expanded="true" signature="1695:3487" ph="Public Properties" />
+                <marker date="1555320154000" expanded="true" signature="1730:1823" ph="/// The current state of this Socket.IO manager. ... " />
+                <marker date="1555320154000" expanded="true" signature="1971:2074" ph="/// The SocketOptions instance that this manager will use. ... " />
+                <marker date="1555320154000" expanded="true" signature="2143:2226" ph="/// The Uri to the Socket.IO endpoint. ... " />
+                <marker date="1555320154000" expanded="true" signature="2281:2372" ph="/// The server sent and parsed Handshake data. ... " />
+                <marker date="1555320154000" expanded="true" signature="2443:2535" ph="/// The currently used main transport instance. ... " />
+                <marker date="1555320154000" expanded="true" signature="2603:2701" ph="/// The Request counter for request-based transports. ... " />
+                <marker date="1555320154000" expanded="true" signature="2770:2840" ph="/// The root(&quot;/&quot;) Socket. ... " />
+                <marker date="1555320154000" expanded="true" signature="2911:3019" ph="/// Indexer to access socket associated to the given namespace. ... " />
+                <marker date="1555320154000" expanded="true" signature="3103:3185" ph="/// How many reconnect attempts made. ... " />
+                <marker date="1555320154000" expanded="true" signature="3254:3417" ph="/// The JSon encoder that will be used to encode the sent data to json and decode the received json to an object  ... " />
+                <marker date="1555320154000" expanded="false" signature="3497:4356" ph="Internal Properties" />
+                <marker date="1555320154000" expanded="true" signature="3534:3633" ph="/// Timestamp support to the request based transports. ... " />
+                <marker date="1555320154000" expanded="true" signature="3776:3870" ph="/// Auto-incrementing property to return Ack ids. ... " />
+                <marker date="1555320154000" expanded="true" signature="4016:4126" ph="/// Internal property to store the previous state of the manager. ... " />
+                <marker date="1555320154000" expanded="true" signature="4196:4275" ph="/// Transport currently upgrading. ... " />
+                <marker date="1555320154000" expanded="false" signature="4366:5660" ph="Privates" />
+                <marker date="1555320154000" expanded="true" signature="4392:4473" ph="/// Namespace name -&gt; Socket mapping ... " />
+                <marker date="1555320154000" expanded="true" signature="4573:4678" ph="/// List of the sockets to able to iterate over them easily. ... " />
+                <marker date="1555320154000" expanded="true" signature="4747:4861" ph="/// List of unsent packets. Only instantiated when we have to use it. ... " />
+                <marker date="1555320154000" expanded="true" signature="4916:5015" ph="/// When we sent out the last heartbeat(Ping) message. ... " />
+                <marker date="1555320154000" expanded="true" signature="5085:5179" ph="/// When we have to try to do a reconnect attempt ... " />
+                <marker date="1555320154000" expanded="true" signature="5227:5317" ph="/// When we started to connect to the server. ... " />
+                <marker date="1555320154000" expanded="true" signature="5371:5461" ph="/// Private flag to avoid multiple Close call ... " />
+                <marker date="1555320154000" expanded="true" signature="5501:5604" ph="/// Whether the connection is waiting for a ping response. ... " />
+                <marker date="1555320154000" expanded="true" signature="5670:6327" ph="Constructors" />
+                <marker date="1555320154000" expanded="true" signature="5700:5831" ph="/// Constructor to create a SocketManager instance that will connect to the given uri. ... " />
+                <marker date="1555320154000" expanded="true" signature="5913:5934" ph="{...}" />
+                <marker date="1555320154000" expanded="true" signature="5944:6040" ph="/// Constructor to create a SocketManager instance. ... " />
+                <marker date="1555320154000" expanded="true" signature="6101:6307" ph="{...}" />
+                <marker date="1555320154000" expanded="true" signature="6337:6450" ph="/// Returns with the &quot;/&quot; namespace, the same as the Socket property. ... " />
+                <marker date="1555320154000" expanded="true" signature="6484:6539" ph="{...}" />
+                <marker date="1555320154000" expanded="true" signature="6549:6634" ph="/// Returns with the specified namespace ... " />
+                <marker date="1555320154000" expanded="true" signature="6678:7272" ph="{...}" />
+                <marker date="1555320154000" expanded="true" signature="6835:6890" ph="/* if (nsp[0] != '/') ... */" />
+                <marker date="1555320154000" expanded="true" signature="6983:7234" ph="{...}" />
+                <marker date="1555320154000" expanded="true" signature="7282:7437" ph="/// Internal function to remove a Socket instance from this manager. ... " />
+                <marker date="1555320154000" expanded="true" signature="7481:7648" ph="{...}" />
+                <marker date="1555320154000" expanded="false" signature="7658:13810" ph="Connection to the server, and upgrading" />
+                <marker date="1555320154000" expanded="true" signature="7715:7941" ph="/// This function will begin to open the Socket.IO connection by sending out the handshake request. ... " />
+                <marker date="1555320154000" expanded="true" signature="7968:8876" ph="{...}" />
+                <marker date="1555320154000" expanded="true" signature="8294:8549" ph="{...}" />
+                <marker date="1555320154000" expanded="true" signature="8886:8968" ph="/// Closes this Socket.IO connection. ... " />
+                <marker date="1555320154000" expanded="true" signature="8996:9060" ph="{...}" />
+                <marker date="1555320154000" expanded="true" signature="9070:9152" ph="/// Closes this Socket.IO connection. ... " />
+                <marker date="1555320154000" expanded="true" signature="9200:10456" ph="{...}" />
+                <marker date="1555320154000" expanded="true" signature="10466:10612" ph="/// Called from a ITransport implementation when an error occurs and we may have to try to reconnect. ... " />
+                <marker date="1555320154000" expanded="true" signature="10651:12090" ph="{...}" />
+                <marker date="1555320154000" expanded="true" signature="10839:10917" ph="{...}" />
+                <marker date="1555320154000" expanded="true" signature="10987:11131" ph="{...}" />
+                <marker date="1555320154000" expanded="true" signature="12100:12208" ph="/// Called by transports when they are connected to the server. ... " />
+                <marker date="1555320154000" expanded="true" signature="12269:13118" ph="{...}" />
+                <marker date="1555320154000" expanded="true" signature="12937:13075" ph="{...}" />
+                <marker date="1555320154000" expanded="true" signature="13188:13357" ph="{...}" />
+                <marker date="1555320154000" expanded="true" signature="13416:13790" ph="{...}" />
+                <marker date="1555320154000" expanded="false" signature="13820:17397" ph="Packet Handling" />
+                <marker date="1555320154000" expanded="true" signature="13853:13948" ph="/// Select the best transport to send out packets. ... " />
+                <marker date="1555320154000" expanded="true" signature="13993:14171" ph="{...}" />
+                <marker date="1555320154000" expanded="true" signature="14181:14323" ph="/// Will select the best transport and sends out all packets that are in the OfflinePackets list. ... " />
+                <marker date="1555320154000" expanded="true" signature="14365:14871" ph="{...}" />
+                <marker date="1555320154000" expanded="true" signature="14439:14664" ph="/* Send out packets that we not sent while no transport was available. ... */" />
+                <marker date="1555320154000" expanded="true" signature="14749:14861" ph="{...}" />
+                <marker date="1555320154000" expanded="true" signature="14881:15118" ph="/// Internal function that called from the Socket class. It will send out the packet instantly, or if no transpor ... " />
+                <marker date="1555320154000" expanded="true" signature="15166:15845" ph="{...}" />
+                <marker date="1555320154000" expanded="true" signature="15258:15563" ph="{...}" />
+                <marker date="1555320154000" expanded="true" signature="15292:15368" ph="{...}" />
+                <marker date="1555320154000" expanded="true" signature="15404:15549" ph="{...}" />
+                <marker date="1555320154000" expanded="true" signature="15580:15835" ph="{...}" />
+                <marker date="1555320154000" expanded="true" signature="15855:16014" ph="/// Called from the currently operating Transport. Will pass forward to the Socket that has to call the callbacks ... " />
+                <marker date="1555320154000" expanded="true" signature="16060:17377" ph="{...}" />
+                <marker date="1555320154000" expanded="true" signature="16177:17077" ph="{...}" />
+                <marker date="1555320154000" expanded="true" signature="16281:16707" ph="{...}" />
+                <marker date="1555320154000" expanded="true" signature="17407:17499" ph="/// Sends an event to all available namespaces. ... " />
+                <marker date="1555320154000" expanded="true" signature="17567:17689" ph="{...}" />
+                <marker date="1555320154000" expanded="true" signature="17699:17849" ph="/// Emits an internal packet-less event to the root namespace without creating it if it isn't exists yet. ... " />
+                <marker date="1555320154000" expanded="true" signature="17921:18096" ph="{...}" />
+                <marker date="1555320154000" expanded="true" signature="18106:18256" ph="/// Emits an internal packet-less event to the root namespace without creating it if it isn't exists yet. ... " />
+                <marker date="1555320154000" expanded="true" signature="18335:18432" ph="{...}" />
+                <marker date="1555320154000" expanded="true" signature="18501:18614" ph="{...}" />
+                <marker date="1555320154000" expanded="true" signature="18685:18825" ph="{...}" />
+                <marker date="1555320154000" expanded="false" signature="18835:22810" ph="IHeartbeat Implementation" />
+                <marker date="1555320154000" expanded="true" signature="18878:19041" ph="/// Called from the HTTPManager's OnUpdate function every frame. It's main function is to send out heartbeat mess ... " />
+                <marker date="1555320154000" expanded="true" signature="19097:22790" ph="{...}" />
+                <marker date="1555320154000" expanded="true" signature="19134:22780" ph="{...}" />
+                <marker date="1555320154000" expanded="true" signature="19489:20090" ph="{...}" />
+                <marker date="1555320154000" expanded="true" signature="20235:20588" ph="{...}" />
+                <marker date="1555320154000" expanded="true" signature="20751:20973" ph="{...}" />
+                <marker date="1555320154000" expanded="true" signature="21786:21919" ph="{...}" />
+                <marker date="1555320154000" expanded="true" signature="22092:22380" ph="{...}" />
+                <marker date="1555320154000" expanded="true" signature="22565:22717" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/ThirdParties/Best HTTP (Pro)/Examples/SocketIO/SocketIOChatSample.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="377">
+              <caret line="95" column="27" selection-start-line="95" selection-start-column="27" selection-end-line="95" selection-end-column="27" />
+              <folding>
+                <marker date="1555320496000" expanded="false" signature="38:124" ph="..." />
+                <marker date="1555320496000" expanded="true" signature="153:9356" ph="{...}" />
+                <marker date="1555320496000" expanded="true" signature="214:9354" ph="{...}" />
+                <marker date="1555320496000" expanded="true" signature="341:397" ph="{...}" />
+                <marker date="1555320496000" expanded="false" signature="407:1612" ph="Fields" />
+                <marker date="1555320496000" expanded="true" signature="431:511" ph="/// The Socket.IO manager instance. ... " />
+                <marker date="1555320496000" expanded="true" signature="560:640" ph="/// Current state of the chat demo. ... " />
+                <marker date="1555320496000" expanded="true" signature="684:754" ph="/// The selected nickname ... " />
+                <marker date="1555320496000" expanded="true" signature="812:885" ph="/// Currently typing message ... " />
+                <marker date="1555320496000" expanded="true" signature="942:1018" ph="/// Sent and received messages. ... " />
+                <marker date="1555320496000" expanded="true" signature="1075:1148" ph="/// Position of the scroller ... " />
+                <marker date="1555320496000" expanded="true" signature="1193:1278" ph="/// True if the user is currently typing ... " />
+                <marker date="1555320496000" expanded="true" signature="1317:1391" ph="/// When the message changed. ... " />
+                <marker date="1555320496000" expanded="true" signature="1462:1529" ph="/// Users that typing. ... " />
+                <marker date="1555320496000" expanded="true" signature="1622:3847" ph="Unity Events" />
+                <marker date="1555320496000" expanded="true" signature="1664:2861" ph="{...}" />
+                <marker date="1555320496000" expanded="true" signature="2887:2989" ph="{...}" />
+                <marker date="1555320496000" expanded="true" signature="3012:3602" ph="{...}" />
+                <marker date="1555320496000" expanded="true" signature="3271:3592" ph="{...}" />
+                <marker date="1555320496000" expanded="true" signature="3450:3578" ph="{...}" />
+                <marker date="1555320496000" expanded="true" signature="3624:3827" ph="{...}" />
+                <marker date="1555320496000" expanded="true" signature="3661:3817" ph="{...}" />
+                <marker date="1555320496000" expanded="false" signature="3857:7921" ph="Chat Logic" />
+                <marker date="1555320496000" expanded="true" signature="3885:3986" ph="/// Called from an OnGUI event to draw the Login Screen. ... " />
+                <marker date="1555320496000" expanded="true" signature="4017:4553" ph="{...}" />
+                <marker date="1555320496000" expanded="true" signature="4092:4541" ph="{...}" />
+                <marker date="1555320496000" expanded="true" signature="4563:4663" ph="/// Called from an OnGUI event to draw the Chat Screen. ... " />
+                <marker date="1555320496000" expanded="true" signature="4693:6130" ph="{...}" />
+                <marker date="1555320496000" expanded="true" signature="4768:6118" ph="{...}" />
+                <marker date="1555320496000" expanded="true" signature="5154:5606" ph="{...}" />
+                <marker date="1555320496000" expanded="true" signature="6158:6344" ph="{...}" />
+                <marker date="1555320496000" expanded="true" signature="6372:6629" ph="{...}" />
+                <marker date="1555320496000" expanded="true" signature="6658:6856" ph="{...}" />
+                <marker date="1555320496000" expanded="true" signature="6693:6799" ph="{...}" />
+                <marker date="1555320496000" expanded="true" signature="6926:7183" ph="{...}" />
+                <marker date="1555320496000" expanded="true" signature="7245:7437" ph="{...}" />
+                <marker date="1555320496000" expanded="true" signature="7498:7613" ph="{...}" />
+                <marker date="1555320496000" expanded="true" signature="7677:7901" ph="{...}" />
+                <marker date="1555320496000" expanded="false" signature="7931:9348" ph="Custom SocketIO Events" />
+                <marker date="1555320496000" expanded="true" signature="8035:8187" ph="{...}" />
+                <marker date="1555320496000" expanded="true" signature="8266:8353" ph="{...}" />
+                <marker date="1555320496000" expanded="true" signature="8432:8678" ph="{...}" />
+                <marker date="1555320496000" expanded="true" signature="8755:8999" ph="{...}" />
+                <marker date="1555320496000" expanded="true" signature="9074:9160" ph="{...}" />
+                <marker date="1555320496000" expanded="true" signature="9239:9328" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/ThirdParties/Best HTTP (Pro)/BestHTTP/SocketIO/Socket.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="408" column="12" selection-start-line="408" selection-start-column="12" selection-end-line="408" selection-end-column="12" />
+              <folding>
+                <marker date="1555319938000" expanded="false" signature="38:79" ph="..." />
+                <marker date="1555319938000" expanded="true" signature="108:16221" ph="{...}" />
+                <marker date="1555319938000" expanded="false" signature="121:166" ph="..." />
+                <marker date="1555319938000" expanded="true" signature="172:257" ph="/// This class represents a Socket.IO namespace. ... " />
+                <marker date="1555319938000" expanded="true" signature="298:16219" ph="{...}" />
+                <marker date="1555319938000" expanded="false" signature="313:1309" ph="Public Properties" />
+                <marker date="1555319938000" expanded="true" signature="348:449" ph="/// The SocketManager instance that created this socket. ... " />
+                <marker date="1555319938000" expanded="true" signature="518:610" ph="/// The namespace that this socket is bound to. ... " />
+                <marker date="1555319938000" expanded="true" signature="674:747" ph="/// Unique Id of the socket. ... " />
+                <marker date="1555319938000" expanded="true" signature="804:925" ph="/// True if the socket is connected and open to the server. False otherwise. ... " />
+                <marker date="1555319938000" expanded="true" signature="984:1237" ph="/// While this property is True, the socket will decode the Packet's Payload data using the parent SocketManager' ... " />
+                <marker date="1555319938000" expanded="false" signature="1319:1901" ph="Privates" />
+                <marker date="1555319938000" expanded="true" signature="1345:1464" ph="/// A table to store acknowledgment callbacks associated to the given ids. ... " />
+                <marker date="1555319938000" expanded="true" signature="1541:1683" ph="/// Tha callback table that helps this class to manage event subscription and dispatching events. ... " />
+                <marker date="1555319938000" expanded="true" signature="1736:1820" ph="/// Cached list to spare some GC alloc. ... " />
+                <marker date="1555319938000" expanded="true" signature="1911:1981" ph="/// Internal constructor. ... " />
+                <marker date="1555319938000" expanded="true" signature="2040:2262" ph="{...}" />
+                <marker date="1555319938000" expanded="false" signature="2272:4122" ph="Socket Handling" />
+                <marker date="1555319938000" expanded="true" signature="2305:2400" ph="/// Internal function to start opening the socket. ... " />
+                <marker date="1555319938000" expanded="true" signature="2428:3023" ph="{...}" />
+                <marker date="1555319938000" expanded="true" signature="2634:3013" ph="{...}" />
+                <marker date="1555319938000" expanded="true" signature="3033:3116" ph="/// Disconnects this socket/namespace. ... " />
+                <marker date="1555319938000" expanded="true" signature="3149:3217" ph="{...}" />
+                <marker date="1555319938000" expanded="true" signature="3227:3310" ph="/// Disconnects this socket/namespace. ... " />
+                <marker date="1555319938000" expanded="true" signature="3355:4102" ph="{...}" />
+                <marker date="1555319938000" expanded="true" signature="3443:3869" ph="{...}" />
+                <marker date="1555319938000" expanded="true" signature="3971:4092" ph="{...}" />
+                <marker date="1555319938000" expanded="false" signature="4132:8944" ph="Emit Implementations" />
+                <marker date="1555319938000" expanded="true" signature="4228:4296" ph="{...}" />
+                <marker date="1555319938000" expanded="true" signature="4394:7230" ph="{...}" />
+                <marker date="1555319938000" expanded="true" signature="4665:4785" ph="/* Find and swap any binary data(byte[]) to a placeholder string. ... */" />
+                <marker date="1555319938000" expanded="true" signature="4879:5690" ph="{...}" />
+                <marker date="1555319938000" expanded="true" signature="4976:5676" ph="{...}" />
+                <marker date="1555319938000" expanded="true" signature="5091:5585" ph="{...}" />
+                <marker date="1555319938000" expanded="true" signature="5743:5832" ph="{...}" />
+                <marker date="1555319938000" expanded="true" signature="5864:6061" ph="{...}" />
+                <marker date="1555319938000" expanded="true" signature="6386:6622" ph="{...}" />
+                <marker date="1555319938000" expanded="true" signature="7306:8924" ph="{...}" />
+                <marker date="1555319938000" expanded="true" signature="7967:8056" ph="{...}" />
+                <marker date="1555319938000" expanded="true" signature="8089:8286" ph="{...}" />
+                <marker date="1555319938000" expanded="true" signature="8954:9980" ph="On Implementations" />
+                <marker date="1555319938000" expanded="true" signature="8990:9075" ph="/// Register a callback for a given name ... " />
+                <marker date="1555319938000" expanded="true" signature="9143:9252" ph="{...}" />
+                <marker date="1555319938000" expanded="true" signature="9328:9498" ph="{...}" />
+                <marker date="1555319938000" expanded="true" signature="9591:9695" ph="{...}" />
+                <marker date="1555319938000" expanded="true" signature="9795:9960" ph="{...}" />
+                <marker date="1555319938000" expanded="false" signature="9990:10842" ph="Once Implementations" />
+                <marker date="1555319938000" expanded="true" signature="10089:10197" ph="{...}" />
+                <marker date="1555319938000" expanded="true" signature="10275:10401" ph="{...}" />
+                <marker date="1555319938000" expanded="true" signature="10496:10599" ph="{...}" />
+                <marker date="1555319938000" expanded="true" signature="10701:10822" ph="{...}" />
+                <marker date="1555319938000" expanded="false" signature="10852:12004" ph="Off Implementations" />
+                <marker date="1555319938000" expanded="true" signature="10889:10974" ph="/// Remove all callbacks for all events. ... " />
+                <marker date="1555319938000" expanded="true" signature="11000:11056" ph="{...}" />
+                <marker date="1555319938000" expanded="true" signature="11066:11156" ph="/// Removes all callbacks to the given event. ... " />
+                <marker date="1555319938000" expanded="true" signature="11198:11268" ph="{...}" />
+                <marker date="1555319938000" expanded="true" signature="11278:11368" ph="/// Removes all callbacks to the given event. ... " />
+                <marker date="1555319938000" expanded="true" signature="11417:11483" ph="{...}" />
+                <marker date="1555319938000" expanded="true" signature="11493:11572" ph="/// Remove the specified callback. ... " />
+                <marker date="1555319938000" expanded="true" signature="11641:11721" ph="{...}" />
+                <marker date="1555319938000" expanded="true" signature="11731:11810" ph="/// Remove the specified callback. ... " />
+                <marker date="1555319938000" expanded="true" signature="11886:11984" ph="{...}" />
+                <marker date="1555319938000" expanded="true" signature="12014:14796" ph="Packet Handling" />
+                <marker date="1555319938000" expanded="true" signature="12047:12212" ph="/// Last call of the OnPacket chain(Transport -&gt; Manager -&gt; Socket), we will dispatch the event if there is any c ... " />
+                <marker date="1555319938000" expanded="true" signature="12257:14776" ph="{...}" />
+                <marker date="1555319938000" expanded="true" signature="12356:13854" ph="{...}" />
+                <marker date="1555319938000" expanded="true" signature="12665:12894" ph="{...}" />
+                <marker date="1555319938000" expanded="true" signature="13202:13813" ph="{...}" />
+                <marker date="1555319938000" expanded="true" signature="14129:14766" ph="{...}" />
+                <marker date="1555319938000" expanded="true" signature="14316:14703" ph="{...}" />
+                <marker date="1555319938000" expanded="true" signature="14358:14517" ph="{...}" />
+                <marker date="1555319938000" expanded="true" signature="14558:14685" ph="{...}" />
+                <marker date="1555319938000" expanded="true" signature="14806:14909" ph="/// Emits an internal packet-less event to the user level. ... " />
+                <marker date="1555319938000" expanded="true" signature="14987:15083" ph="{...}" />
+                <marker date="1555319938000" expanded="true" signature="15093:15196" ph="/// Emits an internal packet-less event to the user level. ... " />
+                <marker date="1555319938000" expanded="true" signature="15267:15397" ph="{...}" />
+                <marker date="1555319938000" expanded="true" signature="15465:15577" ph="{...}" />
+                <marker date="1555319938000" expanded="false" signature="15587:16213" ph="Private Helper Functions" />
+                <marker date="1555319938000" expanded="true" signature="15629:15738" ph="/// Called when a &quot;connect&quot; event received to the root namespace ... " />
+                <marker date="1555319938000" expanded="true" signature="15827:16193" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/ThirdParties/Best HTTP (Pro)/BestHTTP/SocketIO/Events/EventDescriptor.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="55" column="71" selection-start-line="55" selection-start-column="71" selection-end-line="55" selection-end-column="71" />
+              <folding>
+                <marker date="1555320287000" expanded="false" signature="38:79" ph="..." />
+                <marker date="1555320287000" expanded="true" signature="115:3646" ph="{...}" />
+                <marker date="1555320287000" expanded="true" signature="316:405" ph="/// A class to describe an event, and its metadatas. ... " />
+                <marker date="1555320287000" expanded="true" signature="447:3644" ph="{...}" />
+                <marker date="1555320287000" expanded="false" signature="462:1082" ph="Public Properties" />
+                <marker date="1555320287000" expanded="true" signature="497:573" ph="/// List of callback delegates. ... " />
+                <marker date="1555320287000" expanded="true" signature="653:789" ph="/// If this property is true, callbacks are removed automatically after the event dispatch. ... " />
+                <marker date="1555320287000" expanded="true" signature="850:1002" ph="/// If this property is true, the dispatching packet's Payload will be decoded using the Manager's Encoder. ... " />
+                <marker date="1555320287000" expanded="true" signature="1092:1170" ph="/// Cache an array on a hot-path. ... " />
+                <marker date="1555320287000" expanded="true" signature="1230:1352" ph="/// Constructor to create an EventDescriptor instance and set the meta-datas. ... " />
+                <marker date="1555320287000" expanded="true" signature="1449:1699" ph="{...}" />
+                <marker date="1555320287000" expanded="true" signature="1709:1898" ph="/// Will call the callback delegates with the given parameters and remove the callbacks if this descriptor marked ... " />
+                <marker date="1555320287000" expanded="true" signature="1975:3638" ph="{...}" />
+                <marker date="1555320287000" expanded="true" signature="2191:2389" ph="/* Copy the callback delegates to an array, because in one of the callbacks we can modify the list(by calling On/ ... */" />
+                <marker date="1555320287000" expanded="true" signature="2541:3628" ph="{...}" />
+                <marker date="1555320287000" expanded="true" signature="2575:2816" ph="{...}" />
+                <marker date="1555320287000" expanded="true" signature="2853:3317" ph="{...}" />
+                <marker date="1555320287000" expanded="true" signature="2892:3026" ph="/* Do not try to emit a new Error when we already tried to deliver an Error, possible causing a ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/ThirdParties/Best HTTP (Pro)/BestHTTP/SocketIO/Events/EventTable.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="12">
+              <caret line="93" column="21" selection-start-line="93" selection-start-column="21" selection-end-line="93" selection-end-column="21" />
+              <folding>
+                <marker date="1555320116000" expanded="true" signature="101:5531" ph="{...}" />
+                <marker date="1555320116000" expanded="true" signature="108:263" ph="/// This class helps keep track and maintain EventDescriptor instances and dispatching packets to the right deleg ... " />
+                <marker date="1555320116000" expanded="true" signature="300:5529" ph="{...}" />
+                <marker date="1555320116000" expanded="false" signature="315:714" ph="Privates" />
+                <marker date="1555320116000" expanded="true" signature="341:434" ph="/// The Socket that this EventTable is bound to. ... " />
+                <marker date="1555320116000" expanded="true" signature="488:579" ph="/// The 'EventName -&gt; List of events' mapping. ... " />
+                <marker date="1555320116000" expanded="true" signature="724:831" ph="/// Constructor to create an instance and bind it to a socket. ... " />
+                <marker date="1555320116000" expanded="true" signature="872:926" ph="{...}" />
+                <marker date="1555320116000" expanded="true" signature="936:1039" ph="/// Register a callback to a name with the given metadata. ... " />
+                <marker date="1555320116000" expanded="true" signature="1152:1759" ph="{...}" />
+                <marker date="1555320116000" expanded="true" signature="1769:1872" ph="/// Removes all events that registered for the given name. ... " />
+                <marker date="1555320116000" expanded="true" signature="1921:1978" ph="{...}" />
+                <marker date="1555320116000" expanded="true" signature="1988:2037" ph="///  ... " />
+                <marker date="1555320116000" expanded="true" signature="2113:2346" ph="{...}" />
+                <marker date="1555320116000" expanded="true" signature="2356:2468" ph="/// Will call the delegates that associated to the given eventName. ... " />
+                <marker date="1555320116000" expanded="true" signature="2548:2939" ph="{...}" />
+                <marker date="1555320116000" expanded="true" signature="2949:3102" ph="/// This function will get the eventName from the packet's Payload, and optionally will decode it from Json. ... " />
+                <marker date="1555320116000" expanded="true" signature="3142:4420" ph="{...}" />
+                <marker date="1555320116000" expanded="true" signature="3526:3682" ph="/* If this is an Event or BinaryEvent message, or we have a subscriber with AutoDecodePayload, then ... */" />
+                <marker date="1555320116000" expanded="true" signature="4430:4520" ph="/// Remove all event -&gt; delegate association. ... " />
+                <marker date="1555320116000" expanded="true" signature="4548:4595" ph="{...}" />
+                <marker date="1555320116000" expanded="false" signature="4605:5523" ph="Private Helpers" />
+                <marker date="1555320116000" expanded="true" signature="4638:4856" ph="/// Returns true, if for the given event name there are at least one event that needs a decoded  ... " />
+                <marker date="1555320116000" expanded="true" signature="4915:5381" ph="{...}" />
+                <marker date="1555320116000" expanded="true" signature="4981:5108" ph="/* If we find at least one EventDescriptor with AutoDecodePayload == true, we have to ... */" />
+                <marker date="1555320116000" expanded="true" signature="5434:5503" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>SocketOptions</find>
+      <find>SocketManager</find>
+      <find>TestHelper</find>
+      <find>SocketEvent</find>
+      <find>OnSocketEvent</find>
+      <find>SocketEventType</find>
+      <find>Uri</find>
+      <find>LitJsonEncoder</find>
+      <find>ObservableDictionary</find>
+      <find>.EventName</find>
+      <find>SocketClient</find>
+      <find>AssertConnect</find>
+      <find>Assert</find>
+      <find>length</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/ThirdParties/Best HTTP (Pro)/Examples/SignalRCore/TestHubExample.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tests/TestConnection.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tests/GameClientHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/978BB286-3A1E-4C66-A74B-72341E3A291D/da/ef3d60aa/Uri.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tests/Tests.asmdef" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/659CD5F0-C4CE-410C-B23A-6CADD71BB76F/01/d1787681/EventHandler`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThirdParties/Best HTTP (Pro)/BestHTTP/SocketIO/SocketManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThirdParties/Best HTTP (Pro)/BestHTTP/WebSocket/WebSocketResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThirdParties/Best HTTP (Pro)/Examples/SignalR/DemoHubSample.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThirdParties/Best HTTP (Pro)/Examples/SignalRCore/RedirectSample.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/59819BE1-42C3-4115-ADE6-88F6962021F1/62/d8cee930/Assert.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThirdParties/Best HTTP (Pro)/BestHTTP/PlatformSupport/Collections/ObjectModel/ObservableDictionary.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThirdParties/Best HTTP (Pro)/BestHTTP/SocketIO/Packet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThirdParties/Best HTTP (Pro)/BestHTTP/SocketIO/Events/EventDescriptor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tests/TestHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThirdParties/Best HTTP (Pro)/Examples/SampleSelector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThirdParties/Best HTTP (Pro)/Examples/SocketIO/SocketIOWePlaySample.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThirdParties/Best HTTP (Pro)/BestHTTP/SocketIO/Socket.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThirdParties/Best HTTP (Pro)/Examples/SocketIO/SocketIOChatSample.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThirdParties/Best HTTP (Pro)/BestHTTP/SignalR/Connection.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tests/GameClient.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThirdParties/Best HTTP (Pro)/BestHTTP/SocketIO/Events/EventTable.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameClientHelper.cs" />
+        <option value="$PROJECT_DIR$/Assets/ThirdParties/Best HTTP (Pro)/Examples/SocketIO/SocketIOChatSample.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tests/TestHelper.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameClient.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tests/TestConnection.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tests/GameClientHelper.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tests/GameClient.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2106" />
+    <option name="y" value="-18" />
+    <option name="width" value="1440" />
+    <option name="height" value="780" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="ThirdParties" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="5427d58d:AssemblyExplorerRootNode" />
+              <item name="nunit.framework (3.5.0.0, msil, .Net Framework v3.5)" type="5e97225f:AssemblyExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="15932">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="15932" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8faaf0c4-5830-4e6d-8d12-08c37275339a" name="Default Changelist" comment="" />
+      <created>1562645309899</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562645309899</updated>
+      <workItem from="1562645311058" duration="84000" />
+      <workItem from="1562645492810" duration="7982000" />
+      <workItem from="1562817273885" duration="12480000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="20546000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Unity" order="0" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.39937758" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="NuGet" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+    </layout>
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameClientHelper.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameClient.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Tests/Tests.asmdef">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1562644388433" expanded="true" signature="0:420" ph="{...}" />
+            <marker date="1562644388433" expanded="true" signature="41:96" ph="[...]" />
+            <marker date="1562644388433" expanded="true" signature="129:161" ph="[...]" />
+            <marker date="1562644388433" expanded="true" signature="187:211" ph="[...]" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ThirdParties/Best HTTP (Pro)/Examples/SampleSelector.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+          <folding>
+            <marker date="1555320197000" expanded="false" signature="6:135" ph="..." />
+            <marker date="1555320197000" expanded="true" signature="164:16487" ph="{...}" />
+            <marker date="1555320197000" expanded="true" signature="171:267" ph="/// A class to describe an Example and store it's metadata. ... " />
+            <marker date="1555320197000" expanded="true" signature="308:1329" ph="{...}" />
+            <marker date="1555320197000" expanded="true" signature="743:881" ph="{...}" />
+            <marker date="1555320197000" expanded="true" signature="922:1103" ph="{...}" />
+            <marker date="1555320197000" expanded="true" signature="1145:1323" ph="{...}" />
+            <marker date="1555320197000" expanded="true" signature="1192:1313" ph="{...}" />
+            <marker date="1555320197000" expanded="true" signature="1378:16485" ph="{...}" />
+            <marker date="1555320197000" expanded="true" signature="1610:9809" ph="{...}" />
+            <marker date="1555320197000" expanded="true" signature="9832:10523" ph="{...}" />
+            <marker date="1555320197000" expanded="true" signature="10046:10264" ph="{...}" />
+            <marker date="1555320197000" expanded="true" signature="10356:10513" ph="{...}" />
+            <marker date="1555320197000" expanded="true" signature="10545:15246" ph="{...}" />
+            <marker date="1555320197000" expanded="true" signature="10773:11366" ph="{...}" />
+            <marker date="1555320197000" expanded="true" signature="11512:12590" ph="{...}" />
+            <marker date="1555320197000" expanded="true" signature="11686:11969" ph="{...}" />
+            <marker date="1555320197000" expanded="true" signature="11994:12569" ph="{...}" />
+            <marker date="1555320197000" expanded="true" signature="12743:13784" ph="{...}" />
+            <marker date="1555320197000" expanded="true" signature="12918:13221" ph="{...}" />
+            <marker date="1555320197000" expanded="true" signature="13242:13763" ph="{...}" />
+            <marker date="1555320197000" expanded="true" signature="13884:14522" ph="{...}" />
+            <marker date="1555320197000" expanded="true" signature="14121:14406" ph="{...}" />
+            <marker date="1555320197000" expanded="true" signature="14595:15236" ph="{...}" />
+            <marker date="1555320197000" expanded="true" signature="15304:15792" ph="{...}" />
+            <marker date="1555320197000" expanded="true" signature="15346:15511" ph="{...}" />
+            <marker date="1555320197000" expanded="true" signature="15570:15782" ph="{...}" />
+            <marker date="1555320197000" expanded="true" signature="15857:16479" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/59819BE1-42C3-4115-ADE6-88F6962021F1/62/d8cee930/Assert.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="2699" column="23" selection-start-line="2699" selection-start-column="23" selection-end-line="2699" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tests/TestHelper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+          <folding>
+            <marker date="1562725910270" expanded="true" signature="6:81" ph="..." />
+            <marker date="1562725910270" expanded="true" signature="98:945" ph="{...}" />
+            <marker date="1562725910270" expanded="true" signature="128:943" ph="{...}" />
+            <marker date="1562725910270" expanded="true" signature="192:261" ph="{...}" />
+            <marker date="1562725910270" expanded="true" signature="366:937" ph="{...}" />
+            <marker date="1562725910270" expanded="true" signature="529:794" ph="{...}" />
+            <marker date="1562725910270" expanded="true" signature="642:744" ph="{...}" />
+            <marker date="1562725910270" expanded="true" signature="822:927" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/978BB286-3A1E-4C66-A74B-72341E3A291D/da/ef3d60aa/Uri.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="24" column="15" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ThirdParties/Best HTTP (Pro)/Examples/SignalRCore/TestHubExample.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="4" selection-end-column="27" />
+          <folding>
+            <marker date="1555320139000" expanded="true" signature="42:133" ph="..." />
+            <marker date="1555320139000" expanded="true" signature="162:7660" ph="{...}" />
+            <marker date="1555320139000" expanded="true" signature="212:7658" ph="{...}" />
+            <marker date="1555320139000" expanded="true" signature="464:1852" ph="{...}" />
+            <marker date="1555320139000" expanded="true" signature="487:684" ph="/* Server side of this example can be found here: ... */" />
+            <marker date="1555320139000" expanded="true" signature="925:1138" ph="/* Optionally add an authenticator ... */" />
+            <marker date="1555320139000" expanded="true" signature="1878:1961" ph="{...}" />
+            <marker date="1555320139000" expanded="true" signature="2037:2403" ph="{...}" />
+            <marker date="1555320139000" expanded="true" signature="2112:2390" ph="{...}" />
+            <marker date="1555320139000" expanded="true" signature="2413:2595" ph="/// This callback is called when the plugin is connected to the server successfully. Messages can be sent to the  ... " />
+            <marker date="1555320139000" expanded="true" signature="2651:6275" ph="{...}" />
+            <marker date="1555320139000" expanded="true" signature="3855:4007" ph="/* To test errors/exceptions this call always throws an exception on the server side resulting in an OnError call ... */" />
+            <marker date="1555320139000" expanded="true" signature="6285:6464" ph="/// This callback is called for every hub message. If false is returned, the plugin will cancel any further proce ... " />
+            <marker date="1555320139000" expanded="true" signature="6565:6690" ph="{...}" />
+            <marker date="1555320139000" expanded="true" signature="6700:6813" ph="/// This is called when the hub is closed after a StartClose() call. ... " />
+            <marker date="1555320139000" expanded="true" signature="6866:6924" ph="{...}" />
+            <marker date="1555320139000" expanded="true" signature="6934:7089" ph="/// Called when an unrecoverable error happen. After this event the hub will not send or receive any messages. ... " />
+            <marker date="1555320139000" expanded="true" signature="7155:7227" ph="{...}" />
+            <marker date="1555320139000" expanded="true" signature="7237:7338" ph="/// Helper class to demonstrate strongly typed callbacks ... " />
+            <marker date="1555320139000" expanded="true" signature="7366:7652" ph="{...}" />
+            <marker date="1555320139000" expanded="true" signature="7510:7642" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ThirdParties/Best HTTP (Pro)/Examples/SignalR/DemoHubSample.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="55" column="44" selection-start-line="55" selection-start-column="44" selection-end-line="55" selection-end-column="65" />
+          <folding>
+            <marker date="1555320080000" expanded="false" signature="37:188" ph="..." />
+            <marker date="1555320080000" expanded="true" signature="217:18420" ph="{...}" />
+            <marker date="1555320080000" expanded="true" signature="273:4094" ph="{...}" />
+            <marker date="1555320080000" expanded="true" signature="357:437" ph="/// The SignalR connection instance ... " />
+            <marker date="1555320080000" expanded="true" signature="485:568" ph="/// DemoHub client side implementation ... " />
+            <marker date="1555320080000" expanded="true" signature="603:691" ph="/// TypedDemoHub client side implementation ... " />
+            <marker date="1555320080000" expanded="true" signature="736:797" ph="///  VB .NET Hub ... " />
+            <marker date="1555320080000" expanded="true" signature="830:922" ph="/// Result of the VB demo's ReadStateValue call ... " />
+            <marker date="1555320080000" expanded="true" signature="1021:3249" ph="{...}" />
+            <marker date="1555320080000" expanded="true" signature="1682:3147" ph="{...}" />
+            <marker date="1555320080000" expanded="true" signature="3275:3402" ph="{...}" />
+            <marker date="1555320080000" expanded="true" signature="3424:4088" ph="{...}" />
+            <marker date="1555320080000" expanded="true" signature="3499:4075" ph="{...}" />
+            <marker date="1555320080000" expanded="true" signature="4100:4180" ph="/// Wrapper class of the 'TypedDemoHub' hub ... " />
+            <marker date="1555320080000" expanded="true" signature="4209:6045" ph="{...}" />
+            <marker date="1555320080000" expanded="true" signature="4381:4482" ph="{...}" />
+            <marker date="1555320080000" expanded="false" signature="4492:4873" ph="Server Called Functions" />
+            <marker date="1555320080000" expanded="true" signature="4533:4644" ph="/// Server-called, client side implementation of the Echo function ... " />
+            <marker date="1555320080000" expanded="true" signature="4709:4853" ph="{...}" />
+            <marker date="1555320080000" expanded="false" signature="4883:5622" ph="Client Called Function(s)" />
+            <marker date="1555320080000" expanded="true" signature="4926:5154" ph="/// Client-called, server side implementation of the Echo function. ... " />
+            <marker date="1555320080000" expanded="true" signature="5191:5260" ph="{...}" />
+            <marker date="1555320080000" expanded="true" signature="5270:5411" ph="/// When the function successfully executed on the server this callback function will be called. ... " />
+            <marker date="1555320080000" expanded="true" signature="5506:5602" ph="{...}" />
+            <marker date="1555320080000" expanded="true" signature="5650:6039" ph="{...}" />
+            <marker date="1555320080000" expanded="true" signature="6051:6130" ph="/// A wrapper class for the 'DemoHub' hub. ... " />
+            <marker date="1555320080000" expanded="true" signature="6154:18418" ph="{...}" />
+            <marker date="1555320080000" expanded="false" signature="6169:7291" ph="Private fields" />
+            <marker date="1555320080000" expanded="true" signature="7344:7596" ph="{...}" />
+            <marker date="1555320080000" expanded="false" signature="7606:12724" ph="Client Called Functions" />
+            <marker date="1555320080000" expanded="false" signature="7647:8343" ph="ReportProgress" />
+            <marker date="1555320080000" expanded="true" signature="7717:7834" ph="{...}" />
+            <marker date="1555320080000" expanded="true" signature="7948:8102" ph="{...}" />
+            <marker date="1555320080000" expanded="true" signature="8207:8323" ph="{...}" />
+            <marker date="1555320080000" expanded="true" signature="8380:8440" ph="{...}" />
+            <marker date="1555320080000" expanded="false" signature="8450:9067" ph="DynamicTask" />
+            <marker date="1555320080000" expanded="true" signature="8504:8604" ph="{...}" />
+            <marker date="1555320080000" expanded="true" signature="8710:8832" ph="{...}" />
+            <marker date="1555320080000" expanded="true" signature="8935:9047" ph="{...}" />
+            <marker date="1555320080000" expanded="true" signature="9102:9160" ph="{...}" />
+            <marker date="1555320080000" expanded="true" signature="9192:9360" ph="{...}" />
+            <marker date="1555320080000" expanded="true" signature="9401:9671" ph="{...}" />
+            <marker date="1555320080000" expanded="true" signature="9719:10003" ph="{...}" />
+            <marker date="1555320080000" expanded="true" signature="10047:10323" ph="{...}" />
+            <marker date="1555320080000" expanded="true" signature="10381:10578" ph="{...}" />
+            <marker date="1555320080000" expanded="true" signature="10624:10754" ph="{...}" />
+            <marker date="1555320080000" expanded="true" signature="10802:11016" ph="{...}" />
+            <marker date="1555320080000" expanded="true" signature="11073:11405" ph="{...}" />
+            <marker date="1555320080000" expanded="true" signature="11096:11267" ph="/* We need to cast the object array to object to keep it as an array ... */" />
+            <marker date="1555320080000" expanded="false" signature="11415:12139" ph="Overloads" />
+            <marker date="1555320080000" expanded="true" signature="11464:11540" ph="{...}" />
+            <marker date="1555320080000" expanded="true" signature="11644:11749" ph="{...}" />
+            <marker date="1555320080000" expanded="true" signature="11791:11874" ph="{...}" />
+            <marker date="1555320080000" expanded="true" signature="11977:12119" ph="{...}" />
+            <marker date="1555320080000" expanded="true" signature="12177:12340" ph="{...}" />
+            <marker date="1555320080000" expanded="true" signature="12373:12490" ph="{...}" />
+            <marker date="1555320080000" expanded="true" signature="12541:12704" ph="{...}" />
+            <marker date="1555320080000" expanded="false" signature="12734:13631" ph="Server Called Functions" />
+            <marker date="1555320080000" expanded="true" signature="12844:12937" ph="{...}" />
+            <marker date="1555320080000" expanded="true" signature="13009:13213" ph="{...}" />
+            <marker date="1555320080000" expanded="true" signature="13281:13398" ph="{...}" />
+            <marker date="1555320080000" expanded="true" signature="13466:13611" ph="{...}" />
+            <marker date="1555320080000" expanded="false" signature="13641:18412" ph="Draw" />
+            <marker date="1555320080000" expanded="true" signature="13663:13755" ph="/// Display the result's of the function calls. ... " />
+            <marker date="1555320080000" expanded="true" signature="13782:18392" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ThirdParties/Best HTTP (Pro)/BestHTTP/PlatformSupport/Collections/ObjectModel/ObservableDictionary.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="49" />
+          <folding>
+            <marker date="1555320314000" expanded="true" signature="6:264" ph="..." />
+            <marker date="1555320314000" expanded="true" signature="322:8082" ph="{...}" />
+            <marker date="1555320314000" expanded="true" signature="466:8080" ph="{...}" />
+            <marker date="1555320314000" expanded="true" signature="788:848" ph="{...}" />
+            <marker date="1555320314000" expanded="false" signature="850:1837" ph="Constructors" />
+            <marker date="1555320314000" expanded="true" signature="908:986" ph="{...}" />
+            <marker date="1555320314000" expanded="true" signature="1060:1148" ph="{...}" />
+            <marker date="1555320314000" expanded="true" signature="1218:1304" ph="{...}" />
+            <marker date="1555320314000" expanded="true" signature="1354:1440" ph="{...}" />
+            <marker date="1555320314000" expanded="true" signature="1548:1646" ph="{...}" />
+            <marker date="1555320314000" expanded="true" signature="1730:1826" ph="{...}" />
+            <marker date="1555320314000" expanded="false" signature="1839:3162" ph="IDictionary&lt;TKey,TValue&gt; Members" />
+            <marker date="1555320314000" expanded="true" signature="1928:1986" ph="{...}" />
+            <marker date="1555320314000" expanded="true" signature="2029:2097" ph="{...}" />
+            <marker date="1555320314000" expanded="true" signature="2136:2200" ph="{...}" />
+            <marker date="1555320314000" expanded="true" signature="2238:2672" ph="{...}" />
+            <marker date="1555320314000" expanded="true" signature="2733:2812" ph="{...}" />
+            <marker date="1555320314000" expanded="true" signature="2855:2921" ph="{...}" />
+            <marker date="1555320314000" expanded="true" signature="2959:3150" ph="{...}" />
+            <marker date="1555320314000" expanded="true" signature="2985:3053" ph="{...}" />
+            <marker date="1555320314000" expanded="true" signature="3069:3140" ph="{...}" />
+            <marker date="1555320314000" expanded="false" signature="3164:4136" ph="ICollection&lt;KeyValuePair&lt;TKey,TValue&gt;&gt; Members" />
+            <marker date="1555320314000" expanded="true" signature="3276:3344" ph="{...}" />
+            <marker date="1555320314000" expanded="true" signature="3373:3534" ph="{...}" />
+            <marker date="1555320314000" expanded="true" signature="3421:3524" ph="{...}" />
+            <marker date="1555320314000" expanded="true" signature="3597:3663" ph="{...}" />
+            <marker date="1555320314000" expanded="true" signature="3743:3813" ph="{...}" />
+            <marker date="1555320314000" expanded="true" signature="3839:3904" ph="{...}" />
+            <marker date="1555320314000" expanded="true" signature="3936:4006" ph="{...}" />
+            <marker date="1555320314000" expanded="true" signature="4067:4124" ph="{...}" />
+            <marker date="1555320314000" expanded="false" signature="4138:4343" ph="IEnumerable&lt;KeyValuePair&lt;TKey,TValue&gt;&gt; Members" />
+            <marker date="1555320314000" expanded="true" signature="4264:4331" ph="{...}" />
+            <marker date="1555320314000" expanded="false" signature="4345:4515" ph="IEnumerable Members" />
+            <marker date="1555320314000" expanded="true" signature="4421:4503" ph="{...}" />
+            <marker date="1555320314000" expanded="false" signature="4517:4658" ph="INotifyCollectionChanged Members" />
+            <marker date="1555320314000" expanded="false" signature="4660:4777" ph="INotifyPropertyChanged Members" />
+            <marker date="1555320314000" expanded="true" signature="4840:5546" ph="{...}" />
+            <marker date="1555320314000" expanded="true" signature="4957:5536" ph="{...}" />
+            <marker date="1555320314000" expanded="true" signature="5013:5328" ph="{...}" />
+            <marker date="1555320314000" expanded="true" signature="5609:6395" ph="{...}" />
+            <marker date="1555320314000" expanded="true" signature="5769:6170" ph="{...}" />
+            <marker date="1555320314000" expanded="true" signature="6187:6385" ph="{...}" />
+            <marker date="1555320314000" expanded="true" signature="6437:6629" ph="{...}" />
+            <marker date="1555320314000" expanded="true" signature="6700:6828" ph="{...}" />
+            <marker date="1555320314000" expanded="true" signature="6872:7092" ph="{...}" />
+            <marker date="1555320314000" expanded="true" signature="7224:7416" ph="{...}" />
+            <marker date="1555320314000" expanded="true" signature="7580:7777" ph="{...}" />
+            <marker date="1555320314000" expanded="true" signature="7885:8074" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ThirdParties/Best HTTP (Pro)/BestHTTP/SignalR/Connection.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-39">
+          <caret line="142" column="31" selection-start-line="142" selection-start-column="31" selection-end-line="142" selection-end-column="31" />
+          <folding>
+            <marker date="1555320207000" expanded="false" signature="37:414" ph="..." />
+            <marker date="1555320207000" expanded="true" signature="497:44991" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="1033:1144" ph="/// Interface to be able to hide internally used functions and properties. ... " />
+            <marker date="1555320207000" expanded="true" signature="1177:1742" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="1748:1832" ph="/// Supported versions of the SignalR protocol. ... " />
+            <marker date="1555320207000" expanded="true" signature="1872:1949" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="1955:2076" ph="/// The main SignalR class. This is the entry point to connect to a SignalR service. ... " />
+            <marker date="1555320207000" expanded="true" signature="2137:44989" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="2152:5961" ph="Public Properties" />
+            <marker date="1555320207000" expanded="true" signature="2187:2323" ph="/// The default Json encode/decoder that will be used to encode/decode the event arguments. ... " />
+            <marker date="1555320207000" expanded="true" signature="2510:2620" ph="/// The base url endpoint where the SignalR service can be found. ... " />
+            <marker date="1555320207000" expanded="true" signature="2675:2764" ph="/// Current State of the SignalR connection. ... " />
+            <marker date="1555320207000" expanded="true" signature="2802:3088" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="2871:3078" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="3139:3238" ph="/// Result of the negotiation request from the server. ... " />
+            <marker date="1555320207000" expanded="true" signature="3319:3409" ph="/// The hubs that the client is connected to. ... " />
+            <marker date="1555320207000" expanded="true" signature="3467:3572" ph="/// The transport that is used to send and receive messages. ... " />
+            <marker date="1555320207000" expanded="true" signature="3643:3723" ph="/// Current client protocol in use. ... " />
+            <marker date="1555320207000" expanded="true" signature="3796:4122" ph="/// Additional query parameters that will be passed for the handshake uri. If the value is null, or an empty stri ... " />
+            <marker date="1555320207000" expanded="true" signature="4196:4851" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="4272:4841" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="4937:5109" ph="/// If it's false, the parameters in the AdditionalQueryParams will be passed for all http requests. Its default  ... " />
+            <marker date="1555320207000" expanded="true" signature="5181:5301" ph="/// The Json encoder that will be used by the connection and the transport. ... " />
+            <marker date="1555320207000" expanded="true" signature="5365:5505" ph="/// An IAuthenticationProvider implementation that will be used to authenticate the connection. ... " />
+            <marker date="1555320207000" expanded="true" signature="5591:5688" ph="/// How much time we have to wait between two pings. ... " />
+            <marker date="1555320207000" expanded="true" signature="5749:5888" ph="/// Wait time before the plugin should do a reconnect attempt. Its default value is 5 seconds. ... " />
+            <marker date="1555320207000" expanded="false" signature="5971:7614" ph="Public Events" />
+            <marker date="1555320207000" expanded="true" signature="6002:6102" ph="/// Called when the protocol is open for communication. ... " />
+            <marker date="1555320207000" expanded="true" signature="6166:6298" ph="/// Called when the connection is closed, and no further messages are sent or received. ... " />
+            <marker date="1555320207000" expanded="true" signature="6356:6543" ph="/// Called when an error occures. If the connection is already Started, it will try to do a reconnect, otherwise  ... " />
+            <marker date="1555320207000" expanded="true" signature="6599:6771" ph="/// This event called when a reconnection attempt are started. If fails to reconnect an OnError and OnClosed even ... " />
+            <marker date="1555320207000" expanded="true" signature="6838:6944" ph="/// This event called when the reconnection attempt succeded. ... " />
+            <marker date="1555320207000" expanded="true" signature="7010:7113" ph="/// Called every time when the connection's state changes. ... " />
+            <marker date="1555320207000" expanded="true" signature="7175:7343" ph="/// It's called when a non-Hub message received. The data can be anything from primitive types to array of comple ... " />
+            <marker date="1555320207000" expanded="true" signature="7415:7522" ph="/// With this delegate all requests can be further customized. ... " />
+            <marker date="1555320207000" expanded="false" signature="7624:8323" ph="Indexers" />
+            <marker date="1555320207000" expanded="true" signature="7650:7741" ph="/// Indexer property the access hubs by index. ... " />
+            <marker date="1555320207000" expanded="true" signature="7821:7911" ph="/// Indexer property the access hubs by name. ... " />
+            <marker date="1555320207000" expanded="true" signature="7951:8303" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="7977:8293" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="8045:8249" ph="{...}" />
+            <marker date="1555320207000" expanded="false" signature="8333:8685" ph="Internals" />
+            <marker date="1555320207000" expanded="true" signature="8360:8453" ph="/// An object to be able maintain thread safety. ... " />
+            <marker date="1555320207000" expanded="true" signature="8512:8606" ph="/// Unique ID for all message sent by the client. ... " />
+            <marker date="1555320207000" expanded="false" signature="8695:13443" ph="Privates" />
+            <marker date="1555320207000" expanded="true" signature="8721:8805" ph="/// Supported client protocol versions. ... " />
+            <marker date="1555320207000" expanded="true" signature="8905:9022" ph="/// A timestamp that will be sent with all request for easier debugging. ... " />
+            <marker date="1555320207000" expanded="true" signature="9152:9260" ph="/// Request counter sent with all request for easier debugging. ... " />
+            <marker date="1555320207000" expanded="true" signature="9309:9420" ph="/// Instance of the last received message. Used for its MessageId. ... " />
+            <marker date="1555320207000" expanded="true" signature="9480:9661" ph="/// The GroupsToken sent by the server that stores what groups we are joined to. ... " />
+            <marker date="1555320207000" expanded="true" signature="9707:9808" ph="/// Received messages before the Start request finishes. ... " />
+            <marker date="1555320207000" expanded="true" signature="9873:9992" ph="/// When the last message received from the server. Used for reconnecting. ... " />
+            <marker date="1555320207000" expanded="true" signature="10050:10216" ph="/// When we started to reconnect. When too much time passes without a successful reconnect, we will close the con ... " />
+            <marker date="1555320207000" expanded="true" signature="10322:10410" ph="/// True, if the reconnect process started. ... " />
+            <marker date="1555320207000" expanded="true" signature="10459:10544" ph="/// When the last ping request sent out. ... " />
+            <marker date="1555320207000" expanded="true" signature="10595:10674" ph="/// Reference to the ping request. ... " />
+            <marker date="1555320207000" expanded="true" signature="10725:10823" ph="/// When the transport started the connection process ... " />
+            <marker date="1555320207000" expanded="true" signature="10889:10984" ph="/// Cached StringBuilder instance used in BuildUri ... " />
+            <marker date="1555320207000" expanded="true" signature="11060:11177" ph="/// Builds and returns with the connection data made from the hub names. ... " />
+            <marker date="1555320207000" expanded="true" signature="11215:11958" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="11241:11948" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="11537:11819" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="11968:12084" ph="/// The cached value of the result of the ConnectionData property call. ... " />
+            <marker date="1555320207000" expanded="true" signature="12138:12341" ph="/// Builds the keys and values from the AdditionalQueryParams to an key=value form. If AdditionalQueryParams is n ... " />
+            <marker date="1555320207000" expanded="true" signature="12376:13204" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="12402:13194" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="12799:13122" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="12952:13104" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="13214:13327" ph="/// The cached value of the result of the QueryParams property call. ... " />
+            <marker date="1555320207000" expanded="false" signature="13453:14533" ph="Constructors" />
+            <marker date="1555320207000" expanded="true" signature="13559:13840" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="13626:13830" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="13918:14109" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="14145:14513" ph="{...}" />
+            <marker date="1555320207000" expanded="false" signature="14543:18881" ph="Starting the protocol" />
+            <marker date="1555320207000" expanded="true" signature="14582:14722" ph="/// This function will start to authenticate if required, and the SignalR protocol negotiation. ... " />
+            <marker date="1555320207000" expanded="true" signature="14749:15407" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="14963:15351" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="15417:15551" ph="/// Called when the authentication succeeded. ... " />
+            <marker date="1555320207000" expanded="true" signature="15631:15823" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="15833:15920" ph="/// Called when the authentication failed. ... " />
+            <marker date="1555320207000" expanded="true" signature="16013:16229" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="16239:16353" ph="/// It's the real Start implementation. It will start the negotiation ... " />
+            <marker date="1555320207000" expanded="true" signature="16386:16690" ph="{...}" />
+            <marker date="1555320207000" expanded="false" signature="16700:18861" ph="Negotiation Event Handlers" />
+            <marker date="1555320207000" expanded="true" signature="16744:16836" ph="/// Protocol negotiation finished successfully. ... " />
+            <marker date="1555320207000" expanded="true" signature="16905:18610" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="17303:17517" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="17658:17988" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="18024:18451" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="18620:18697" ph="/// Protocol negotiation failed. ... " />
+            <marker date="1555320207000" expanded="true" signature="18773:18841" ph="{...}" />
+            <marker date="1555320207000" expanded="false" signature="18891:22884" ph="Public Interface" />
+            <marker date="1555320207000" expanded="true" signature="18925:19025" ph="/// Closes the connection and shuts down the transport. ... " />
+            <marker date="1555320207000" expanded="true" signature="19053:20203" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="19359:19456" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="19766:19877" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="19912:20193" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="19946:20018" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="20055:20179" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="20213:20306" ph="/// Initiates a reconnect to the SignalR server. ... " />
+            <marker date="1555320207000" expanded="true" signature="20338:21373" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="20517:20667" ph="/* Set ReconnectStartedAt only when the previous State is not Reconnecting, ... */" />
+            <marker date="1555320207000" expanded="true" signature="21070:21363" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="21104:21182" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="21219:21349" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="21384:21626" ph="/// Will encode the argument to a Json string using the Connection's JsonEncoder, then will send it to the server ... " />
+            <marker date="1555320207000" expanded="true" signature="21663:22314" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="22324:22498" ph="/// Sends the given json string to the server. ... " />
+            <marker date="1555320207000" expanded="true" signature="22540:22864" ph="{...}" />
+            <marker date="1555320207000" expanded="false" signature="22894:36789" ph="IManager Functions" />
+            <marker date="1555320207000" expanded="true" signature="22930:23027" ph="/// Called when we receive a message from the server ... " />
+            <marker date="1555320207000" expanded="true" signature="23082:26202" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="23301:23511" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="23595:26192" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="24161:24488" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="24357:24466" ph="/* Should we return here not processing the messages that may come with it? ... */" />
+            <marker date="1555320207000" expanded="true" signature="26212:26348" ph="/// Called from the transport implementations when the Start request finishes successfully. ... " />
+            <marker date="1555320207000" expanded="true" signature="26392:27328" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="26551:26835" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="26585:26660" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="26697:26821" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="26849:27025" ph="/* Deliver messages that we received before the /start request returned. ... */" />
+            <marker date="1555320207000" expanded="true" signature="27067:27318" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="27338:27451" ph="/// Called when the transport sucessfully reconnected to the server. ... " />
+            <marker date="1555320207000" expanded="true" signature="27499:28055" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="27754:28045" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="27788:27865" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="27902:28031" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="28065:28200" ph="/// Called from the transport implementation when the Abort request finishes successfully. ... " />
+            <marker date="1555320207000" expanded="true" signature="28244:28285" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="28295:28495" ph="/// Called when an error occures. If the connection is in the Connected state, it will start the reconnect proces ... " />
+            <marker date="1555320207000" expanded="true" signature="28541:29645" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="28814:28891" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="29178:29430" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="29447:29635" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="29655:29755" ph="/// Creates an Uri instance for the given request type. ... " />
+            <marker date="1555320207000" expanded="true" signature="29807:29890" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="29900:29999" ph="/// Creates an Uri instance from the given parameters. ... " />
+            <marker date="1555320207000" expanded="true" signature="30076:35399" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="30478:34979" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="31313:31513" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="31578:31873" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="32454:32654" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="32719:33014" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="34009:34190" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="34455:34666" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="34738:34929" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="35409:35523" ph="/// It's called on every request before sending it out to the server. ... " />
+            <marker date="1555320207000" expanded="true" signature="35606:35876" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="35886:36088" ph="/// Will parse a &quot;{ 'Response': 'xyz' }&quot; object and returns with 'xyz'. If it fails to parse, or getting the 'Res ... " />
+            <marker date="1555320207000" expanded="true" signature="36149:36769" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="36295:36455" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="36556:36721" ph="{...}" />
+            <marker date="1555320207000" expanded="false" signature="36799:39002" ph="IHeartbeat Implementation" />
+            <marker date="1555320207000" expanded="true" signature="36842:36936" ph="/// IHeartbeat implementation to manage timeouts. ... " />
+            <marker date="1555320207000" expanded="true" signature="36992:38982" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="37033:38972" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="37626:37840" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="37930:38301" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="38512:38930" ph="{...}" />
+            <marker date="1555320207000" expanded="false" signature="39012:41917" ph="Private Helper Functions" />
+            <marker date="1555320207000" expanded="true" signature="39054:39172" ph="/// Init function to set the connected states and set up other variables. ... " />
+            <marker date="1555320207000" expanded="true" signature="39207:39562" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="39572:39672" ph="/// Find and return with a Hub that has the message id. ... " />
+            <marker date="1555320207000" expanded="true" signature="39714:39950" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="39960:40095" ph="/// Try to fall back to next transport. If no more transport to try, it will return false. ... " />
+            <marker date="1555320207000" expanded="true" signature="40139:41559" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="40208:41522" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="40472:41292" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="41569:41728" ph="/// This event will be called when the AdditonalQueryPrams dictionary changed. We have to reset the cached values ... " />
+            <marker date="1555320207000" expanded="true" signature="41840:41897" ph="{...}" />
+            <marker date="1555320207000" expanded="false" signature="41927:44983" ph="Ping Implementation" />
+            <marker date="1555320207000" expanded="true" signature="41964:42056" ph="/// Sends a Ping request to the SignalR server. ... " />
+            <marker date="1555320207000" expanded="true" signature="42084:42531" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="42541:42628" ph="/// Called when the Ping request finished. ... " />
+            <marker date="1555320207000" expanded="true" signature="42699:44963" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="42816:44852" ph="{...}" />
+            <marker date="1555320207000" expanded="true" signature="42980:43479" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/659CD5F0-C4CE-410C-B23A-6CADD71BB76F/01/d1787681/EventHandler`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ThirdParties/Best HTTP (Pro)/Examples/SignalRCore/RedirectSample.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+          <folding>
+            <marker date="1555320496000" expanded="false" signature="42:149" ph="..." />
+            <marker date="1555320496000" expanded="true" signature="178:5856" ph="{...}" />
+            <marker date="1555320496000" expanded="true" signature="185:373" ph="/// This sample demonstrates redirection capabilities. The server will redirect a few times the client before ... " />
+            <marker date="1555320496000" expanded="true" signature="428:3800" ph="{...}" />
+            <marker date="1555320496000" expanded="true" signature="702:1496" ph="{...}" />
+            <marker date="1555320496000" expanded="true" signature="725:912" ph="/* Server side of this example can be found here: ... */" />
+            <marker date="1555320496000" expanded="true" signature="1522:1633" ph="{...}" />
+            <marker date="1555320496000" expanded="true" signature="1561:1623" ph="{...}" />
+            <marker date="1555320496000" expanded="true" signature="1709:2074" ph="{...}" />
+            <marker date="1555320496000" expanded="true" signature="1784:2062" ph="{...}" />
+            <marker date="1555320496000" expanded="true" signature="2154:2282" ph="{...}" />
+            <marker date="1555320496000" expanded="true" signature="2292:2474" ph="/// This callback is called when the plugin is connected to the server successfully. Messages can be sent to the  ... " />
+            <marker date="1555320496000" expanded="true" signature="2530:2831" ph="{...}" />
+            <marker date="1555320496000" expanded="true" signature="2841:3020" ph="/// This callback is called for every hub message. If false is returned, the plugin will cancel any further proce ... " />
+            <marker date="1555320496000" expanded="true" signature="3121:3257" ph="{...}" />
+            <marker date="1555320496000" expanded="true" signature="3267:3380" ph="/// This is called when the hub is closed after a StartClose() call. ... " />
+            <marker date="1555320496000" expanded="true" signature="3433:3491" ph="{...}" />
+            <marker date="1555320496000" expanded="true" signature="3501:3656" ph="/// Called when an unrecoverable error happen. After this event the hub will not send or receive any messages. ... " />
+            <marker date="1555320496000" expanded="true" signature="3722:3794" ph="{...}" />
+            <marker date="1555320496000" expanded="true" signature="3890:5854" ph="{...}" />
+            <marker date="1555320496000" expanded="true" signature="3905:4011" ph="/// No pre-auth step required for this type of authentication ... " />
+            <marker date="1555320496000" expanded="true" signature="4114:4207" ph="/// Not used event as IsPreAuthRequired is false ... " />
+            <marker date="1555320496000" expanded="true" signature="4297:4390" ph="/// Not used event as IsPreAuthRequired is false ... " />
+            <marker date="1555320496000" expanded="true" signature="4621:4684" ph="{...}" />
+            <marker date="1555320496000" expanded="true" signature="4694:4781" ph="/// Not used as IsPreAuthRequired is false ... " />
+            <marker date="1555320496000" expanded="true" signature="4823:4835" ph="{...}" />
+            <marker date="1555320496000" expanded="true" signature="4845:4942" ph="/// Prepares the request by adding two headers to it ... " />
+            <marker date="1555320496000" expanded="true" signature="5007:5275" ph="{...}" />
+            <marker date="1555320496000" expanded="true" signature="5315:5848" ph="{...}" />
+            <marker date="1555320496000" expanded="true" signature="5458:5793" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ThirdParties/Best HTTP (Pro)/Examples/SocketIO/SocketIOWePlaySample.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="316" column="55" lean-forward="true" selection-start-line="316" selection-start-column="55" selection-end-line="316" selection-end-column="55" />
+          <folding>
+            <marker date="1555320016000" expanded="false" signature="38:124" ph="..." />
+            <marker date="1555320016000" expanded="true" signature="153:11878" ph="{...}" />
+            <marker date="1555320016000" expanded="true" signature="216:11876" ph="{...}" />
+            <marker date="1555320016000" expanded="true" signature="231:308" ph="/// Possible states of the game. ... " />
+            <marker date="1555320016000" expanded="true" signature="328:416" ph="{...}" />
+            <marker date="1555320016000" expanded="true" signature="426:545" ph="/// Controls that the server understands as a parameter in the move event. ... " />
+            <marker date="1555320016000" expanded="true" signature="668:763" ph="/// Ratio of the drawn GUI texture from the screen ... " />
+            <marker date="1555320016000" expanded="true" signature="815:890" ph="/// How many messages to keep. ... " />
+            <marker date="1555320016000" expanded="true" signature="938:1013" ph="/// Current state of the game. ... " />
+            <marker date="1555320016000" expanded="true" signature="1053:1132" ph="/// The root(&quot;/&quot;) Socket instance. ... " />
+            <marker date="1555320016000" expanded="true" signature="1173:1249" ph="/// The user-selected nickname. ... " />
+            <marker date="1555320016000" expanded="true" signature="1303:1403" ph="/// The message that the user want to send to the chat. ... " />
+            <marker date="1555320016000" expanded="true" signature="1466:1553" ph="/// How many user connected to the server. ... " />
+            <marker date="1555320016000" expanded="true" signature="1596:1676" ph="/// Local and server sent messages. ... " />
+            <marker date="1555320016000" expanded="true" signature="1746:1820" ph="/// The chat scroll position. ... " />
+            <marker date="1555320016000" expanded="true" signature="1865:1966" ph="/// The decoded texture from the server sent binary data ... " />
+            <marker date="1555320016000" expanded="false" signature="2016:5060" ph="Unity Events" />
+            <marker date="1555320016000" expanded="true" signature="2058:3434" ph="{...}" />
+            <marker date="1555320016000" expanded="true" signature="2850:3031" ph="/* Don't waste cpu cycles on decoding the payload, we are expecting only binary data with this event, ... */" />
+            <marker date="1555320016000" expanded="true" signature="3460:3569" ph="{...}" />
+            <marker date="1555320016000" expanded="true" signature="3592:3774" ph="{...}" />
+            <marker date="1555320016000" expanded="true" signature="3796:5040" ph="{...}" />
+            <marker date="1555320016000" expanded="true" signature="3833:5030" ph="{...}" />
+            <marker date="1555320016000" expanded="true" signature="3960:4317" ph="{...}" />
+            <marker date="1555320016000" expanded="true" signature="4461:4560" ph="{...}" />
+            <marker date="1555320016000" expanded="true" signature="4699:4987" ph="{...}" />
+            <marker date="1555320016000" expanded="false" signature="5070:8126" ph="Helper Functions" />
+            <marker date="1555320016000" expanded="true" signature="5104:5205" ph="/// Called from an OnGUI event to draw the Login Screen. ... " />
+            <marker date="1555320016000" expanded="true" signature="5236:5591" ph="{...}" />
+            <marker date="1555320016000" expanded="true" signature="5620:5985" ph="{...}" />
+            <marker date="1555320016000" expanded="true" signature="6031:6783" ph="{...}" />
+            <marker date="1555320016000" expanded="true" signature="6390:6735" ph="{...}" />
+            <marker date="1555320016000" expanded="true" signature="6793:6913" ph="/// Add a message to the message log ... " />
+            <marker date="1555320016000" expanded="true" signature="6949:7133" ph="{...}" />
+            <marker date="1555320016000" expanded="true" signature="7143:7260" ph="/// Send a chat message. The message must be in the messageToSend field. ... " />
+            <marker date="1555320016000" expanded="true" signature="7287:7550" ph="{...}" />
+            <marker date="1555320016000" expanded="true" signature="7560:7669" ph="/// Join to the game with the nickname stored in the Nick field. ... " />
+            <marker date="1555320016000" expanded="true" signature="7689:7798" ph="{...}" />
+            <marker date="1555320016000" expanded="true" signature="7808:7873" ph="/// Reload the game. ... " />
+            <marker date="1555320016000" expanded="true" signature="7895:8106" ph="{...}" />
+            <marker date="1555320016000" expanded="true" signature="7971:8096" ph="{...}" />
+            <marker date="1555320016000" expanded="true" signature="8136:11870" ph="SocketIO Events" />
+            <marker date="1555320016000" expanded="true" signature="8169:8241" ph="/// Socket connected event. ... " />
+            <marker date="1555320016000" expanded="true" signature="8326:8607" ph="{...}" />
+            <marker date="1555320016000" expanded="true" signature="8380:8498" ph="{...}" />
+            <marker date="1555320016000" expanded="true" signature="8617:8714" ph="/// Local player joined after sending a 'join' event ... " />
+            <marker date="1555320016000" expanded="true" signature="8796:8851" ph="{...}" />
+            <marker date="1555320016000" expanded="true" signature="8861:8942" ph="/// Server sent us a 'reload' event. ... " />
+            <marker date="1555320016000" expanded="true" signature="9024:9066" ph="{...}" />
+            <marker date="1555320016000" expanded="true" signature="9076:9161" ph="/// Someone wrote a message to the chat. ... " />
+            <marker date="1555320016000" expanded="true" signature="9244:9435" ph="{...}" />
+            <marker date="1555320016000" expanded="true" signature="9445:9534" ph="/// Someone (including us) pressed a button. ... " />
+            <marker date="1555320016000" expanded="true" signature="9614:9710" ph="{...}" />
+            <marker date="1555320016000" expanded="true" signature="9720:9795" ph="/// Someone joined to the game ... " />
+            <marker date="1555320016000" expanded="true" signature="9875:10058" ph="{...}" />
+            <marker date="1555320016000" expanded="true" signature="10068:10160" ph="/// How many players are connected to the game. ... " />
+            <marker date="1555320016000" expanded="true" signature="10247:10319" ph="{...}" />
+            <marker date="1555320016000" expanded="true" signature="10329:10428" ph="/// The server sent us a new picture to draw the game. ... " />
+            <marker date="1555320016000" expanded="true" signature="10509:11582" ph="{...}" />
+            <marker date="1555320016000" expanded="true" signature="10622:10791" ph="{...}" />
+            <marker date="1555320016000" expanded="true" signature="11039:11204" ph="/* packet.ReconstructAttachmentAsIndex(); ... */" />
+            <marker date="1555320016000" expanded="true" signature="11320:11485" ph="/* packet.ReconstructAttachmentAsBase64(); ... */" />
+            <marker date="1555320016000" expanded="true" signature="11592:11673" ph="/// Called on local or remote error. ... " />
+            <marker date="1555320016000" expanded="true" signature="11754:11850" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ThirdParties/Best HTTP (Pro)/BestHTTP/SocketIO/Events/EventDescriptor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="55" column="71" selection-start-line="55" selection-start-column="71" selection-end-line="55" selection-end-column="71" />
+          <folding>
+            <marker date="1555320287000" expanded="false" signature="38:79" ph="..." />
+            <marker date="1555320287000" expanded="true" signature="115:3646" ph="{...}" />
+            <marker date="1555320287000" expanded="true" signature="316:405" ph="/// A class to describe an event, and its metadatas. ... " />
+            <marker date="1555320287000" expanded="true" signature="447:3644" ph="{...}" />
+            <marker date="1555320287000" expanded="false" signature="462:1082" ph="Public Properties" />
+            <marker date="1555320287000" expanded="true" signature="497:573" ph="/// List of callback delegates. ... " />
+            <marker date="1555320287000" expanded="true" signature="653:789" ph="/// If this property is true, callbacks are removed automatically after the event dispatch. ... " />
+            <marker date="1555320287000" expanded="true" signature="850:1002" ph="/// If this property is true, the dispatching packet's Payload will be decoded using the Manager's Encoder. ... " />
+            <marker date="1555320287000" expanded="true" signature="1092:1170" ph="/// Cache an array on a hot-path. ... " />
+            <marker date="1555320287000" expanded="true" signature="1230:1352" ph="/// Constructor to create an EventDescriptor instance and set the meta-datas. ... " />
+            <marker date="1555320287000" expanded="true" signature="1449:1699" ph="{...}" />
+            <marker date="1555320287000" expanded="true" signature="1709:1898" ph="/// Will call the callback delegates with the given parameters and remove the callbacks if this descriptor marked ... " />
+            <marker date="1555320287000" expanded="true" signature="1975:3638" ph="{...}" />
+            <marker date="1555320287000" expanded="true" signature="2191:2389" ph="/* Copy the callback delegates to an array, because in one of the callbacks we can modify the list(by calling On/ ... */" />
+            <marker date="1555320287000" expanded="true" signature="2541:3628" ph="{...}" />
+            <marker date="1555320287000" expanded="true" signature="2575:2816" ph="{...}" />
+            <marker date="1555320287000" expanded="true" signature="2853:3317" ph="{...}" />
+            <marker date="1555320287000" expanded="true" signature="2892:3026" ph="/* Do not try to emit a new Error when we already tried to deliver an Error, possible causing a ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ThirdParties/Best HTTP (Pro)/BestHTTP/SocketIO/Socket.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="408" column="12" selection-start-line="408" selection-start-column="12" selection-end-line="408" selection-end-column="12" />
+          <folding>
+            <marker date="1555319938000" expanded="false" signature="38:79" ph="..." />
+            <marker date="1555319938000" expanded="true" signature="108:16221" ph="{...}" />
+            <marker date="1555319938000" expanded="false" signature="121:166" ph="..." />
+            <marker date="1555319938000" expanded="true" signature="172:257" ph="/// This class represents a Socket.IO namespace. ... " />
+            <marker date="1555319938000" expanded="true" signature="298:16219" ph="{...}" />
+            <marker date="1555319938000" expanded="false" signature="313:1309" ph="Public Properties" />
+            <marker date="1555319938000" expanded="true" signature="348:449" ph="/// The SocketManager instance that created this socket. ... " />
+            <marker date="1555319938000" expanded="true" signature="518:610" ph="/// The namespace that this socket is bound to. ... " />
+            <marker date="1555319938000" expanded="true" signature="674:747" ph="/// Unique Id of the socket. ... " />
+            <marker date="1555319938000" expanded="true" signature="804:925" ph="/// True if the socket is connected and open to the server. False otherwise. ... " />
+            <marker date="1555319938000" expanded="true" signature="984:1237" ph="/// While this property is True, the socket will decode the Packet's Payload data using the parent SocketManager' ... " />
+            <marker date="1555319938000" expanded="false" signature="1319:1901" ph="Privates" />
+            <marker date="1555319938000" expanded="true" signature="1345:1464" ph="/// A table to store acknowledgment callbacks associated to the given ids. ... " />
+            <marker date="1555319938000" expanded="true" signature="1541:1683" ph="/// Tha callback table that helps this class to manage event subscription and dispatching events. ... " />
+            <marker date="1555319938000" expanded="true" signature="1736:1820" ph="/// Cached list to spare some GC alloc. ... " />
+            <marker date="1555319938000" expanded="true" signature="1911:1981" ph="/// Internal constructor. ... " />
+            <marker date="1555319938000" expanded="true" signature="2040:2262" ph="{...}" />
+            <marker date="1555319938000" expanded="false" signature="2272:4122" ph="Socket Handling" />
+            <marker date="1555319938000" expanded="true" signature="2305:2400" ph="/// Internal function to start opening the socket. ... " />
+            <marker date="1555319938000" expanded="true" signature="2428:3023" ph="{...}" />
+            <marker date="1555319938000" expanded="true" signature="2634:3013" ph="{...}" />
+            <marker date="1555319938000" expanded="true" signature="3033:3116" ph="/// Disconnects this socket/namespace. ... " />
+            <marker date="1555319938000" expanded="true" signature="3149:3217" ph="{...}" />
+            <marker date="1555319938000" expanded="true" signature="3227:3310" ph="/// Disconnects this socket/namespace. ... " />
+            <marker date="1555319938000" expanded="true" signature="3355:4102" ph="{...}" />
+            <marker date="1555319938000" expanded="true" signature="3443:3869" ph="{...}" />
+            <marker date="1555319938000" expanded="true" signature="3971:4092" ph="{...}" />
+            <marker date="1555319938000" expanded="false" signature="4132:8944" ph="Emit Implementations" />
+            <marker date="1555319938000" expanded="true" signature="4228:4296" ph="{...}" />
+            <marker date="1555319938000" expanded="true" signature="4394:7230" ph="{...}" />
+            <marker date="1555319938000" expanded="true" signature="4665:4785" ph="/* Find and swap any binary data(byte[]) to a placeholder string. ... */" />
+            <marker date="1555319938000" expanded="true" signature="4879:5690" ph="{...}" />
+            <marker date="1555319938000" expanded="true" signature="4976:5676" ph="{...}" />
+            <marker date="1555319938000" expanded="true" signature="5091:5585" ph="{...}" />
+            <marker date="1555319938000" expanded="true" signature="5743:5832" ph="{...}" />
+            <marker date="1555319938000" expanded="true" signature="5864:6061" ph="{...}" />
+            <marker date="1555319938000" expanded="true" signature="6386:6622" ph="{...}" />
+            <marker date="1555319938000" expanded="true" signature="7306:8924" ph="{...}" />
+            <marker date="1555319938000" expanded="true" signature="7967:8056" ph="{...}" />
+            <marker date="1555319938000" expanded="true" signature="8089:8286" ph="{...}" />
+            <marker date="1555319938000" expanded="true" signature="8954:9980" ph="On Implementations" />
+            <marker date="1555319938000" expanded="true" signature="8990:9075" ph="/// Register a callback for a given name ... " />
+            <marker date="1555319938000" expanded="true" signature="9143:9252" ph="{...}" />
+            <marker date="1555319938000" expanded="true" signature="9328:9498" ph="{...}" />
+            <marker date="1555319938000" expanded="true" signature="9591:9695" ph="{...}" />
+            <marker date="1555319938000" expanded="true" signature="9795:9960" ph="{...}" />
+            <marker date="1555319938000" expanded="false" signature="9990:10842" ph="Once Implementations" />
+            <marker date="1555319938000" expanded="true" signature="10089:10197" ph="{...}" />
+            <marker date="1555319938000" expanded="true" signature="10275:10401" ph="{...}" />
+            <marker date="1555319938000" expanded="true" signature="10496:10599" ph="{...}" />
+            <marker date="1555319938000" expanded="true" signature="10701:10822" ph="{...}" />
+            <marker date="1555319938000" expanded="false" signature="10852:12004" ph="Off Implementations" />
+            <marker date="1555319938000" expanded="true" signature="10889:10974" ph="/// Remove all callbacks for all events. ... " />
+            <marker date="1555319938000" expanded="true" signature="11000:11056" ph="{...}" />
+            <marker date="1555319938000" expanded="true" signature="11066:11156" ph="/// Removes all callbacks to the given event. ... " />
+            <marker date="1555319938000" expanded="true" signature="11198:11268" ph="{...}" />
+            <marker date="1555319938000" expanded="true" signature="11278:11368" ph="/// Removes all callbacks to the given event. ... " />
+            <marker date="1555319938000" expanded="true" signature="11417:11483" ph="{...}" />
+            <marker date="1555319938000" expanded="true" signature="11493:11572" ph="/// Remove the specified callback. ... " />
+            <marker date="1555319938000" expanded="true" signature="11641:11721" ph="{...}" />
+            <marker date="1555319938000" expanded="true" signature="11731:11810" ph="/// Remove the specified callback. ... " />
+            <marker date="1555319938000" expanded="true" signature="11886:11984" ph="{...}" />
+            <marker date="1555319938000" expanded="true" signature="12014:14796" ph="Packet Handling" />
+            <marker date="1555319938000" expanded="true" signature="12047:12212" ph="/// Last call of the OnPacket chain(Transport -&gt; Manager -&gt; Socket), we will dispatch the event if there is any c ... " />
+            <marker date="1555319938000" expanded="true" signature="12257:14776" ph="{...}" />
+            <marker date="1555319938000" expanded="true" signature="12356:13854" ph="{...}" />
+            <marker date="1555319938000" expanded="true" signature="12665:12894" ph="{...}" />
+            <marker date="1555319938000" expanded="true" signature="13202:13813" ph="{...}" />
+            <marker date="1555319938000" expanded="true" signature="14129:14766" ph="{...}" />
+            <marker date="1555319938000" expanded="true" signature="14316:14703" ph="{...}" />
+            <marker date="1555319938000" expanded="true" signature="14358:14517" ph="{...}" />
+            <marker date="1555319938000" expanded="true" signature="14558:14685" ph="{...}" />
+            <marker date="1555319938000" expanded="true" signature="14806:14909" ph="/// Emits an internal packet-less event to the user level. ... " />
+            <marker date="1555319938000" expanded="true" signature="14987:15083" ph="{...}" />
+            <marker date="1555319938000" expanded="true" signature="15093:15196" ph="/// Emits an internal packet-less event to the user level. ... " />
+            <marker date="1555319938000" expanded="true" signature="15267:15397" ph="{...}" />
+            <marker date="1555319938000" expanded="true" signature="15465:15577" ph="{...}" />
+            <marker date="1555319938000" expanded="false" signature="15587:16213" ph="Private Helper Functions" />
+            <marker date="1555319938000" expanded="true" signature="15629:15738" ph="/// Called when a &quot;connect&quot; event received to the root namespace ... " />
+            <marker date="1555319938000" expanded="true" signature="15827:16193" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ThirdParties/Best HTTP (Pro)/BestHTTP/SocketIO/Events/EventTable.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12">
+          <caret line="93" column="21" selection-start-line="93" selection-start-column="21" selection-end-line="93" selection-end-column="21" />
+          <folding>
+            <marker date="1555320116000" expanded="true" signature="101:5531" ph="{...}" />
+            <marker date="1555320116000" expanded="true" signature="108:263" ph="/// This class helps keep track and maintain EventDescriptor instances and dispatching packets to the right deleg ... " />
+            <marker date="1555320116000" expanded="true" signature="300:5529" ph="{...}" />
+            <marker date="1555320116000" expanded="false" signature="315:714" ph="Privates" />
+            <marker date="1555320116000" expanded="true" signature="341:434" ph="/// The Socket that this EventTable is bound to. ... " />
+            <marker date="1555320116000" expanded="true" signature="488:579" ph="/// The 'EventName -&gt; List of events' mapping. ... " />
+            <marker date="1555320116000" expanded="true" signature="724:831" ph="/// Constructor to create an instance and bind it to a socket. ... " />
+            <marker date="1555320116000" expanded="true" signature="872:926" ph="{...}" />
+            <marker date="1555320116000" expanded="true" signature="936:1039" ph="/// Register a callback to a name with the given metadata. ... " />
+            <marker date="1555320116000" expanded="true" signature="1152:1759" ph="{...}" />
+            <marker date="1555320116000" expanded="true" signature="1769:1872" ph="/// Removes all events that registered for the given name. ... " />
+            <marker date="1555320116000" expanded="true" signature="1921:1978" ph="{...}" />
+            <marker date="1555320116000" expanded="true" signature="1988:2037" ph="///  ... " />
+            <marker date="1555320116000" expanded="true" signature="2113:2346" ph="{...}" />
+            <marker date="1555320116000" expanded="true" signature="2356:2468" ph="/// Will call the delegates that associated to the given eventName. ... " />
+            <marker date="1555320116000" expanded="true" signature="2548:2939" ph="{...}" />
+            <marker date="1555320116000" expanded="true" signature="2949:3102" ph="/// This function will get the eventName from the packet's Payload, and optionally will decode it from Json. ... " />
+            <marker date="1555320116000" expanded="true" signature="3142:4420" ph="{...}" />
+            <marker date="1555320116000" expanded="true" signature="3526:3682" ph="/* If this is an Event or BinaryEvent message, or we have a subscriber with AutoDecodePayload, then ... */" />
+            <marker date="1555320116000" expanded="true" signature="4430:4520" ph="/// Remove all event -&gt; delegate association. ... " />
+            <marker date="1555320116000" expanded="true" signature="4548:4595" ph="{...}" />
+            <marker date="1555320116000" expanded="false" signature="4605:5523" ph="Private Helpers" />
+            <marker date="1555320116000" expanded="true" signature="4638:4856" ph="/// Returns true, if for the given event name there are at least one event that needs a decoded  ... " />
+            <marker date="1555320116000" expanded="true" signature="4915:5381" ph="{...}" />
+            <marker date="1555320116000" expanded="true" signature="4981:5108" ph="/* If we find at least one EventDescriptor with AutoDecodePayload == true, we have to ... */" />
+            <marker date="1555320116000" expanded="true" signature="5434:5503" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ThirdParties/Best HTTP (Pro)/BestHTTP/SocketIO/Packet.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding>
+            <marker date="1555320229000" expanded="true" signature="79:20996" ph="{...}" />
+            <marker date="1555320229000" expanded="false" signature="92:162" ph="..." />
+            <marker date="1555320229000" expanded="true" signature="194:20994" ph="{...}" />
+            <marker date="1555320229000" expanded="true" signature="241:309" ph="{...}" />
+            <marker date="1555320229000" expanded="false" signature="378:2455" ph="Public properties" />
+            <marker date="1555320229000" expanded="true" signature="413:511" ph="/// Event type of this packet on the transport layer. ... " />
+            <marker date="1555320229000" expanded="true" signature="593:686" ph="/// The packet's type in the Socket.IO protocol. ... " />
+            <marker date="1555320229000" expanded="true" signature="766:859" ph="/// How many attachment should have this packet. ... " />
+            <marker date="1555320229000" expanded="true" signature="926:1010" ph="/// The internal ack-id of this packet. ... " />
+            <marker date="1555320229000" expanded="true" signature="1064:1141" ph="/// The sender namespace's name. ... " />
+            <marker date="1555320229000" expanded="true" signature="1205:1283" ph="/// The payload as a Json string. ... " />
+            <marker date="1555320229000" expanded="true" signature="1345:1441" ph="/// The decoded event name from the payload string. ... " />
+            <marker date="1555320229000" expanded="true" signature="1505:1593" ph="/// All binary data attached to this event. ... " />
+            <marker date="1555320229000" expanded="true" signature="1809:1928" ph="/// Property to check whether all attachments are received to this packet. ... " />
+            <marker date="1555320229000" expanded="true" signature="2055:2190" ph="/// True if it's already decoded. The DecodedArgs still can be null after the Decode call. ... " />
+            <marker date="1555320229000" expanded="true" signature="2252:2377" ph="/// The decoded arguments from the result of a Json string -&gt; c## object convert. ... " />
+            <marker date="1555320229000" expanded="false" signature="2465:3519" ph="Constructors" />
+            <marker date="1555320229000" expanded="true" signature="2495:2588" ph="/// Internal constructor. Don't use it directly! ... " />
+            <marker date="1555320229000" expanded="true" signature="2614:2799" ph="{...}" />
+            <marker date="1555320229000" expanded="true" signature="2809:2902" ph="/// Internal constructor. Don't use it directly! ... " />
+            <marker date="1555320229000" expanded="true" signature="2939:2989" ph="{...}" />
+            <marker date="1555320229000" expanded="true" signature="2999:3092" ph="/// Internal constructor. Don't use it directly! ... " />
+            <marker date="1555320229000" expanded="true" signature="3241:3499" ph="{...}" />
+            <marker date="1555320229000" expanded="false" signature="3529:8328" ph="Public Functions" />
+            <marker date="1555320229000" expanded="true" signature="3638:4357" ph="{...}" />
+            <marker date="1555320229000" expanded="true" signature="3961:4314" ph="{...}" />
+            <marker date="1555320229000" expanded="true" signature="4169:4300" ph="{...}" />
+            <marker date="1555320229000" expanded="true" signature="4367:4488" ph="/// Will set and return with the EventName from the packet's Payload string. ... " />
+            <marker date="1555320229000" expanded="true" signature="4528:5634" ph="{...}" />
+            <marker date="1555320229000" expanded="true" signature="5696:6828" ph="{...}" />
+            <marker date="1555320229000" expanded="true" signature="6838:7040" ph="/// Will switch the &quot;{'_placeholder':true,'num':X}&quot; to a the index num X. ... " />
+            <marker date="1555320229000" expanded="true" signature="7091:7496" ph="{...}" />
+            <marker date="1555320229000" expanded="true" signature="7286:7484" ph="{...}" />
+            <marker date="1555320229000" expanded="true" signature="7506:7728" ph="/// Will switch the &quot;{'_placeholder':true,'num':X}&quot; to a the data as a base64 encoded string. ... " />
+            <marker date="1555320229000" expanded="true" signature="7780:8308" ph="{...}" />
+            <marker date="1555320229000" expanded="true" signature="8041:8296" ph="{...}" />
+            <marker date="1555320229000" expanded="false" signature="8338:16113" ph="Internal Functions" />
+            <marker date="1555320229000" expanded="true" signature="8374:8513" ph="/// Parse the packet from a server sent textual data. The Payload will be the raw json string. ... " />
+            <marker date="1555320229000" expanded="true" signature="8554:10392" ph="{...}" />
+            <marker date="1555320229000" expanded="true" signature="9041:9401" ph="{...}" />
+            <marker date="1555320229000" expanded="true" signature="9488:9748" ph="{...}" />
+            <marker date="1555320229000" expanded="true" signature="9888:10187" ph="{...}" />
+            <marker date="1555320229000" expanded="true" signature="10402:10646" ph="/// Custom function instead of char.GetNumericValue, as it throws an error under WebGL using the new 4.x runtime. ... " />
+            <marker date="1555320229000" expanded="true" signature="10681:10877" ph="{...}" />
+            <marker date="1555320229000" expanded="true" signature="10887:10988" ph="/// Encodes this packet to a Socket.IO formatted string. ... " />
+            <marker date="1555320229000" expanded="true" signature="11021:13068" ph="{...}" />
+            <marker date="1555320229000" expanded="true" signature="11968:12098" ph="{...}" />
+            <marker date="1555320229000" expanded="true" signature="12112:12251" ph="/* Add the namespace. If there is any other then the root nsp (&quot;/&quot;) ... */" />
+            <marker date="1555320229000" expanded="true" signature="12325:12434" ph="{...}" />
+            <marker date="1555320229000" expanded="true" signature="12495:12721" ph="{...}" />
+            <marker date="1555320229000" expanded="true" signature="12539:12654" ph="{...}" />
+            <marker date="1555320229000" expanded="true" signature="12798:13018" ph="{...}" />
+            <marker date="1555320229000" expanded="true" signature="12842:12957" ph="{...}" />
+            <marker date="1555320229000" expanded="true" signature="13078:13183" ph="/// Encodes this packet to a Socket.IO formatted byte array. ... " />
+            <marker date="1555320229000" expanded="true" signature="13222:15402" ph="{...}" />
+            <marker date="1555320229000" expanded="true" signature="13321:13697" ph="{...}" />
+            <marker date="1555320229000" expanded="true" signature="14121:15331" ph="{...}" />
+            <marker date="1555320229000" expanded="true" signature="14645:14894" ph="{...}" />
+            <marker date="1555320229000" expanded="true" signature="15119:15317" ph="{...}" />
+            <marker date="1555320229000" expanded="true" signature="15412:15526" ph="/// Will add the byte[] that the server sent to the attachments list. ... " />
+            <marker date="1555320229000" expanded="true" signature="15600:16093" ph="{...}" />
+            <marker date="1555320229000" expanded="true" signature="15890:16083" ph="{...}" />
+            <marker date="1555320229000" expanded="false" signature="16123:20243" ph="Private Helper Functions" />
+            <marker date="1555320229000" expanded="true" signature="16165:16272" ph="/// Encodes a byte array to a Socket.IO binary encoded message ... " />
+            <marker date="1555320229000" expanded="true" signature="16362:18167" ph="{...}" />
+            <marker date="1555320229000" expanded="true" signature="16385:16968" ph="/* Packet binary encoding: ... */" />
+            <marker date="1555320229000" expanded="true" signature="17858:18018" ph="{...}" />
+            <marker date="1555320229000" expanded="true" signature="18177:18335" ph="/// Searches for the &quot;{'_placeholder':true,'num':X}&quot; string, and will call the given action to modify the PayLoad ... " />
+            <marker date="1555320229000" expanded="true" signature="18428:20223" ph="{...}" />
+            <marker date="1555320229000" expanded="true" signature="18692:20187" ph="{...}" />
+            <marker date="1555320229000" expanded="false" signature="20253:20988" ph="Overrides and Interface Implementations" />
+            <marker date="1555320229000" expanded="true" signature="20310:20399" ph="/// Returns with the Payload of this packet. ... " />
+            <marker date="1555320229000" expanded="true" signature="20441:20494" ph="{...}" />
+            <marker date="1555320229000" expanded="true" signature="20504:20608" ph="/// Will clone this packet to an identical packet instance. ... " />
+            <marker date="1555320229000" expanded="true" signature="20640:20968" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ThirdParties/Best HTTP (Pro)/Examples/SocketIO/SocketIOChatSample.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="95" column="27" selection-start-line="95" selection-start-column="27" selection-end-line="95" selection-end-column="27" />
+          <folding>
+            <marker date="1555320496000" expanded="false" signature="38:124" ph="..." />
+            <marker date="1555320496000" expanded="true" signature="153:9356" ph="{...}" />
+            <marker date="1555320496000" expanded="true" signature="214:9354" ph="{...}" />
+            <marker date="1555320496000" expanded="true" signature="341:397" ph="{...}" />
+            <marker date="1555320496000" expanded="false" signature="407:1612" ph="Fields" />
+            <marker date="1555320496000" expanded="true" signature="431:511" ph="/// The Socket.IO manager instance. ... " />
+            <marker date="1555320496000" expanded="true" signature="560:640" ph="/// Current state of the chat demo. ... " />
+            <marker date="1555320496000" expanded="true" signature="684:754" ph="/// The selected nickname ... " />
+            <marker date="1555320496000" expanded="true" signature="812:885" ph="/// Currently typing message ... " />
+            <marker date="1555320496000" expanded="true" signature="942:1018" ph="/// Sent and received messages. ... " />
+            <marker date="1555320496000" expanded="true" signature="1075:1148" ph="/// Position of the scroller ... " />
+            <marker date="1555320496000" expanded="true" signature="1193:1278" ph="/// True if the user is currently typing ... " />
+            <marker date="1555320496000" expanded="true" signature="1317:1391" ph="/// When the message changed. ... " />
+            <marker date="1555320496000" expanded="true" signature="1462:1529" ph="/// Users that typing. ... " />
+            <marker date="1555320496000" expanded="true" signature="1622:3847" ph="Unity Events" />
+            <marker date="1555320496000" expanded="true" signature="1664:2861" ph="{...}" />
+            <marker date="1555320496000" expanded="true" signature="2887:2989" ph="{...}" />
+            <marker date="1555320496000" expanded="true" signature="3012:3602" ph="{...}" />
+            <marker date="1555320496000" expanded="true" signature="3271:3592" ph="{...}" />
+            <marker date="1555320496000" expanded="true" signature="3450:3578" ph="{...}" />
+            <marker date="1555320496000" expanded="true" signature="3624:3827" ph="{...}" />
+            <marker date="1555320496000" expanded="true" signature="3661:3817" ph="{...}" />
+            <marker date="1555320496000" expanded="false" signature="3857:7921" ph="Chat Logic" />
+            <marker date="1555320496000" expanded="true" signature="3885:3986" ph="/// Called from an OnGUI event to draw the Login Screen. ... " />
+            <marker date="1555320496000" expanded="true" signature="4017:4553" ph="{...}" />
+            <marker date="1555320496000" expanded="true" signature="4092:4541" ph="{...}" />
+            <marker date="1555320496000" expanded="true" signature="4563:4663" ph="/// Called from an OnGUI event to draw the Chat Screen. ... " />
+            <marker date="1555320496000" expanded="true" signature="4693:6130" ph="{...}" />
+            <marker date="1555320496000" expanded="true" signature="4768:6118" ph="{...}" />
+            <marker date="1555320496000" expanded="true" signature="5154:5606" ph="{...}" />
+            <marker date="1555320496000" expanded="true" signature="6158:6344" ph="{...}" />
+            <marker date="1555320496000" expanded="true" signature="6372:6629" ph="{...}" />
+            <marker date="1555320496000" expanded="true" signature="6658:6856" ph="{...}" />
+            <marker date="1555320496000" expanded="true" signature="6693:6799" ph="{...}" />
+            <marker date="1555320496000" expanded="true" signature="6926:7183" ph="{...}" />
+            <marker date="1555320496000" expanded="true" signature="7245:7437" ph="{...}" />
+            <marker date="1555320496000" expanded="true" signature="7498:7613" ph="{...}" />
+            <marker date="1555320496000" expanded="true" signature="7677:7901" ph="{...}" />
+            <marker date="1555320496000" expanded="false" signature="7931:9348" ph="Custom SocketIO Events" />
+            <marker date="1555320496000" expanded="true" signature="8035:8187" ph="{...}" />
+            <marker date="1555320496000" expanded="true" signature="8266:8353" ph="{...}" />
+            <marker date="1555320496000" expanded="true" signature="8432:8678" ph="{...}" />
+            <marker date="1555320496000" expanded="true" signature="8755:8999" ph="{...}" />
+            <marker date="1555320496000" expanded="true" signature="9074:9160" ph="{...}" />
+            <marker date="1555320496000" expanded="true" signature="9239:9328" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ThirdParties/Best HTTP (Pro)/BestHTTP/SocketIO/SocketManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8">
+          <caret line="111" column="33" selection-start-line="111" selection-start-column="33" selection-end-line="111" selection-end-column="33" />
+          <folding>
+            <marker date="1555320154000" expanded="false" signature="38:213" ph="..." />
+            <marker date="1555320154000" expanded="true" signature="242:22819" ph="{...}" />
+            <marker date="1555320154000" expanded="true" signature="305:22817" ph="{...}" />
+            <marker date="1555320154000" expanded="true" signature="320:413" ph="/// Possible states of a SocketManager instance. ... " />
+            <marker date="1555320154000" expanded="true" signature="440:1317" ph="{...}" />
+            <marker date="1555320154000" expanded="true" signature="463:554" ph="/// Initial state of the SocketManager ... " />
+            <marker date="1555320154000" expanded="true" signature="589:713" ph="/// The SocketManager is closed, initiated by the user or by the server ... " />
+            <marker date="1555320154000" expanded="true" signature="747:843" ph="/// The SocketManager is currently opening. ... " />
+            <marker date="1555320154000" expanded="true" signature="878:995" ph="/// The SocketManager is open, events can be sent to the server. ... " />
+            <marker date="1555320154000" expanded="true" signature="1027:1112" ph="/// Paused for transport upgrade ... " />
+            <marker date="1555320154000" expanded="true" signature="1146:1282" ph="/// An error occurred, the SocketManager now trying to connect again to the server. ... " />
+            <marker date="1555320154000" expanded="true" signature="1327:1463" ph="/// The default Json encode/decoder that will be used to encode/decode the event arguments. ... " />
+            <marker date="1555320154000" expanded="true" signature="1551:1636" ph="/// Supported Socket.IO protocol version ... " />
+            <marker date="1555320154000" expanded="true" signature="1695:3487" ph="Public Properties" />
+            <marker date="1555320154000" expanded="true" signature="1730:1823" ph="/// The current state of this Socket.IO manager. ... " />
+            <marker date="1555320154000" expanded="true" signature="1971:2074" ph="/// The SocketOptions instance that this manager will use. ... " />
+            <marker date="1555320154000" expanded="true" signature="2143:2226" ph="/// The Uri to the Socket.IO endpoint. ... " />
+            <marker date="1555320154000" expanded="true" signature="2281:2372" ph="/// The server sent and parsed Handshake data. ... " />
+            <marker date="1555320154000" expanded="true" signature="2443:2535" ph="/// The currently used main transport instance. ... " />
+            <marker date="1555320154000" expanded="true" signature="2603:2701" ph="/// The Request counter for request-based transports. ... " />
+            <marker date="1555320154000" expanded="true" signature="2770:2840" ph="/// The root(&quot;/&quot;) Socket. ... " />
+            <marker date="1555320154000" expanded="true" signature="2911:3019" ph="/// Indexer to access socket associated to the given namespace. ... " />
+            <marker date="1555320154000" expanded="true" signature="3103:3185" ph="/// How many reconnect attempts made. ... " />
+            <marker date="1555320154000" expanded="true" signature="3254:3417" ph="/// The JSon encoder that will be used to encode the sent data to json and decode the received json to an object  ... " />
+            <marker date="1555320154000" expanded="false" signature="3497:4356" ph="Internal Properties" />
+            <marker date="1555320154000" expanded="true" signature="3534:3633" ph="/// Timestamp support to the request based transports. ... " />
+            <marker date="1555320154000" expanded="true" signature="3776:3870" ph="/// Auto-incrementing property to return Ack ids. ... " />
+            <marker date="1555320154000" expanded="true" signature="4016:4126" ph="/// Internal property to store the previous state of the manager. ... " />
+            <marker date="1555320154000" expanded="true" signature="4196:4275" ph="/// Transport currently upgrading. ... " />
+            <marker date="1555320154000" expanded="false" signature="4366:5660" ph="Privates" />
+            <marker date="1555320154000" expanded="true" signature="4392:4473" ph="/// Namespace name -&gt; Socket mapping ... " />
+            <marker date="1555320154000" expanded="true" signature="4573:4678" ph="/// List of the sockets to able to iterate over them easily. ... " />
+            <marker date="1555320154000" expanded="true" signature="4747:4861" ph="/// List of unsent packets. Only instantiated when we have to use it. ... " />
+            <marker date="1555320154000" expanded="true" signature="4916:5015" ph="/// When we sent out the last heartbeat(Ping) message. ... " />
+            <marker date="1555320154000" expanded="true" signature="5085:5179" ph="/// When we have to try to do a reconnect attempt ... " />
+            <marker date="1555320154000" expanded="true" signature="5227:5317" ph="/// When we started to connect to the server. ... " />
+            <marker date="1555320154000" expanded="true" signature="5371:5461" ph="/// Private flag to avoid multiple Close call ... " />
+            <marker date="1555320154000" expanded="true" signature="5501:5604" ph="/// Whether the connection is waiting for a ping response. ... " />
+            <marker date="1555320154000" expanded="true" signature="5670:6327" ph="Constructors" />
+            <marker date="1555320154000" expanded="true" signature="5700:5831" ph="/// Constructor to create a SocketManager instance that will connect to the given uri. ... " />
+            <marker date="1555320154000" expanded="true" signature="5913:5934" ph="{...}" />
+            <marker date="1555320154000" expanded="true" signature="5944:6040" ph="/// Constructor to create a SocketManager instance. ... " />
+            <marker date="1555320154000" expanded="true" signature="6101:6307" ph="{...}" />
+            <marker date="1555320154000" expanded="true" signature="6337:6450" ph="/// Returns with the &quot;/&quot; namespace, the same as the Socket property. ... " />
+            <marker date="1555320154000" expanded="true" signature="6484:6539" ph="{...}" />
+            <marker date="1555320154000" expanded="true" signature="6549:6634" ph="/// Returns with the specified namespace ... " />
+            <marker date="1555320154000" expanded="true" signature="6678:7272" ph="{...}" />
+            <marker date="1555320154000" expanded="true" signature="6835:6890" ph="/* if (nsp[0] != '/') ... */" />
+            <marker date="1555320154000" expanded="true" signature="6983:7234" ph="{...}" />
+            <marker date="1555320154000" expanded="true" signature="7282:7437" ph="/// Internal function to remove a Socket instance from this manager. ... " />
+            <marker date="1555320154000" expanded="true" signature="7481:7648" ph="{...}" />
+            <marker date="1555320154000" expanded="false" signature="7658:13810" ph="Connection to the server, and upgrading" />
+            <marker date="1555320154000" expanded="true" signature="7715:7941" ph="/// This function will begin to open the Socket.IO connection by sending out the handshake request. ... " />
+            <marker date="1555320154000" expanded="true" signature="7968:8876" ph="{...}" />
+            <marker date="1555320154000" expanded="true" signature="8294:8549" ph="{...}" />
+            <marker date="1555320154000" expanded="true" signature="8886:8968" ph="/// Closes this Socket.IO connection. ... " />
+            <marker date="1555320154000" expanded="true" signature="8996:9060" ph="{...}" />
+            <marker date="1555320154000" expanded="true" signature="9070:9152" ph="/// Closes this Socket.IO connection. ... " />
+            <marker date="1555320154000" expanded="true" signature="9200:10456" ph="{...}" />
+            <marker date="1555320154000" expanded="true" signature="10466:10612" ph="/// Called from a ITransport implementation when an error occurs and we may have to try to reconnect. ... " />
+            <marker date="1555320154000" expanded="true" signature="10651:12090" ph="{...}" />
+            <marker date="1555320154000" expanded="true" signature="10839:10917" ph="{...}" />
+            <marker date="1555320154000" expanded="true" signature="10987:11131" ph="{...}" />
+            <marker date="1555320154000" expanded="true" signature="12100:12208" ph="/// Called by transports when they are connected to the server. ... " />
+            <marker date="1555320154000" expanded="true" signature="12269:13118" ph="{...}" />
+            <marker date="1555320154000" expanded="true" signature="12937:13075" ph="{...}" />
+            <marker date="1555320154000" expanded="true" signature="13188:13357" ph="{...}" />
+            <marker date="1555320154000" expanded="true" signature="13416:13790" ph="{...}" />
+            <marker date="1555320154000" expanded="false" signature="13820:17397" ph="Packet Handling" />
+            <marker date="1555320154000" expanded="true" signature="13853:13948" ph="/// Select the best transport to send out packets. ... " />
+            <marker date="1555320154000" expanded="true" signature="13993:14171" ph="{...}" />
+            <marker date="1555320154000" expanded="true" signature="14181:14323" ph="/// Will select the best transport and sends out all packets that are in the OfflinePackets list. ... " />
+            <marker date="1555320154000" expanded="true" signature="14365:14871" ph="{...}" />
+            <marker date="1555320154000" expanded="true" signature="14439:14664" ph="/* Send out packets that we not sent while no transport was available. ... */" />
+            <marker date="1555320154000" expanded="true" signature="14749:14861" ph="{...}" />
+            <marker date="1555320154000" expanded="true" signature="14881:15118" ph="/// Internal function that called from the Socket class. It will send out the packet instantly, or if no transpor ... " />
+            <marker date="1555320154000" expanded="true" signature="15166:15845" ph="{...}" />
+            <marker date="1555320154000" expanded="true" signature="15258:15563" ph="{...}" />
+            <marker date="1555320154000" expanded="true" signature="15292:15368" ph="{...}" />
+            <marker date="1555320154000" expanded="true" signature="15404:15549" ph="{...}" />
+            <marker date="1555320154000" expanded="true" signature="15580:15835" ph="{...}" />
+            <marker date="1555320154000" expanded="true" signature="15855:16014" ph="/// Called from the currently operating Transport. Will pass forward to the Socket that has to call the callbacks ... " />
+            <marker date="1555320154000" expanded="true" signature="16060:17377" ph="{...}" />
+            <marker date="1555320154000" expanded="true" signature="16177:17077" ph="{...}" />
+            <marker date="1555320154000" expanded="true" signature="16281:16707" ph="{...}" />
+            <marker date="1555320154000" expanded="true" signature="17407:17499" ph="/// Sends an event to all available namespaces. ... " />
+            <marker date="1555320154000" expanded="true" signature="17567:17689" ph="{...}" />
+            <marker date="1555320154000" expanded="true" signature="17699:17849" ph="/// Emits an internal packet-less event to the root namespace without creating it if it isn't exists yet. ... " />
+            <marker date="1555320154000" expanded="true" signature="17921:18096" ph="{...}" />
+            <marker date="1555320154000" expanded="true" signature="18106:18256" ph="/// Emits an internal packet-less event to the root namespace without creating it if it isn't exists yet. ... " />
+            <marker date="1555320154000" expanded="true" signature="18335:18432" ph="{...}" />
+            <marker date="1555320154000" expanded="true" signature="18501:18614" ph="{...}" />
+            <marker date="1555320154000" expanded="true" signature="18685:18825" ph="{...}" />
+            <marker date="1555320154000" expanded="false" signature="18835:22810" ph="IHeartbeat Implementation" />
+            <marker date="1555320154000" expanded="true" signature="18878:19041" ph="/// Called from the HTTPManager's OnUpdate function every frame. It's main function is to send out heartbeat mess ... " />
+            <marker date="1555320154000" expanded="true" signature="19097:22790" ph="{...}" />
+            <marker date="1555320154000" expanded="true" signature="19134:22780" ph="{...}" />
+            <marker date="1555320154000" expanded="true" signature="19489:20090" ph="{...}" />
+            <marker date="1555320154000" expanded="true" signature="20235:20588" ph="{...}" />
+            <marker date="1555320154000" expanded="true" signature="20751:20973" ph="{...}" />
+            <marker date="1555320154000" expanded="true" signature="21786:21919" ph="{...}" />
+            <marker date="1555320154000" expanded="true" signature="22092:22380" ph="{...}" />
+            <marker date="1555320154000" expanded="true" signature="22565:22717" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tests/TestConnection.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="99" column="53" lean-forward="true" selection-start-line="99" selection-start-column="53" selection-end-line="99" selection-end-column="53" />
+          <folding>
+            <marker date="1562730102312" expanded="false" signature="6:164" ph="..." />
+            <marker date="1562730102312" expanded="true" signature="181:5314" ph="{...}" />
+            <marker date="1562730102312" expanded="true" signature="232:302" ph="{...}" />
+            <marker date="1562730102312" expanded="true" signature="332:409" ph="{...}" />
+            <marker date="1562730102312" expanded="true" signature="446:5312" ph="{...}" />
+            <marker date="1562730102312" expanded="true" signature="934:1034" ph="{...}" />
+            <marker date="1562730102312" expanded="true" signature="1086:1357" ph="{...}" />
+            <marker date="1562730102312" expanded="true" signature="1430:2397" ph="{...}" />
+            <marker date="1562730102312" expanded="true" signature="1676:1780" ph="{...}" />
+            <marker date="1562730102312" expanded="true" signature="1797:2262" ph="{...}" />
+            <marker date="1562730102312" expanded="true" signature="2276:2356" ph="/* Use the Assert class to test conditions. ... */" />
+            <marker date="1562730102312" expanded="true" signature="2469:2567" ph="{...}" />
+            <marker date="1562730102312" expanded="true" signature="2634:2929" ph="{...}" />
+            <marker date="1562730102312" expanded="true" signature="2994:3620" ph="{...}" />
+            <marker date="1562730102312" expanded="true" signature="3690:5306" ph="{...}" />
+            <marker date="1562730102312" expanded="true" signature="4595:4717" ph="{...}" />
+            <marker date="1562730102312" expanded="true" signature="4782:4904" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tests/GameClient.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="219" column="10" lean-forward="true" selection-start-line="219" selection-start-column="10" selection-end-line="219" selection-end-column="10" />
+          <folding>
+            <marker date="1562846169344" expanded="true" signature="6:238" ph="..." />
+            <marker date="1562846169344" expanded="true" signature="267:373" ph="{...}" />
+            <marker date="1562846169344" expanded="true" signature="400:456" ph="{...}" />
+            <marker date="1562846169344" expanded="true" signature="483:525" ph="{...}" />
+            <marker date="1562846169344" expanded="true" signature="550:6758" ph="{...}" />
+            <marker date="1562846169344" expanded="true" signature="941:1001" ph="{...}" />
+            <marker date="1562846169344" expanded="true" signature="1079:1303" ph="{...}" />
+            <marker date="1562846169344" expanded="true" signature="1378:1614" ph="{...}" />
+            <marker date="1562846169344" expanded="true" signature="1688:1888" ph="{...}" />
+            <marker date="1562846169344" expanded="true" signature="1962:4783" ph="{...}" />
+            <marker date="1562846169344" expanded="true" signature="2085:4777" ph="{...}" />
+            <marker date="1562846169344" expanded="true" signature="2241:2583" ph="{...}" />
+            <marker date="1562846169344" expanded="true" signature="2755:3100" ph="{...}" />
+            <marker date="1562846169344" expanded="true" signature="3270:3820" ph="{...}" />
+            <marker date="1562846169344" expanded="true" signature="3337:3499" ph="{...}" />
+            <marker date="1562846169344" expanded="true" signature="3524:3605" ph="{...}" />
+            <marker date="1562846169344" expanded="true" signature="3995:4197" ph="{...}" />
+            <marker date="1562846169344" expanded="true" signature="4368:4744" ph="{...}" />
+            <marker date="1562846169344" expanded="true" signature="4435:4726" ph="{...}" />
+            <marker date="1562846169344" expanded="true" signature="4829:5522" ph="{...}" />
+            <marker date="1562846169344" expanded="true" signature="5551:5622" ph="{...}" />
+            <marker date="1562846169344" expanded="true" signature="5649:5694" ph="{...}" />
+            <marker date="1562846169344" expanded="true" signature="5724:5772" ph="{...}" />
+            <marker date="1562846169344" expanded="true" signature="5823:5883" ph="{...}" />
+            <marker date="1562846169344" expanded="true" signature="5912:5959" ph="{...}" />
+            <marker date="1562846169344" expanded="true" signature="5993:6665" ph="{...}" />
+            <marker date="1562846169344" expanded="true" signature="6121:6630" ph="{...}" />
+            <marker date="1562846169344" expanded="true" signature="6187:6620" ph="{...}" />
+            <marker date="1562846169344" expanded="true" signature="6289:6502" ph="{...}" />
+            <marker date="1562846169344" expanded="true" signature="6703:6756" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tests/GameClientHelper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1749">
+          <caret line="66" column="30" selection-start-line="66" selection-start-column="30" selection-end-line="66" selection-end-column="30" />
+          <folding>
+            <marker date="1562846043750" expanded="true" signature="6:87" ph="..." />
+            <marker date="1562846043750" expanded="true" signature="137:6089" ph="{...}" />
+            <marker date="1562846043750" expanded="true" signature="216:925" ph="{...}" />
+            <marker date="1562846043750" expanded="true" signature="468:647" ph="{...}" />
+            <marker date="1562846043750" expanded="true" signature="1004:1710" ph="{...}" />
+            <marker date="1562846043750" expanded="true" signature="1256:1431" ph="{...}" />
+            <marker date="1562846043750" expanded="true" signature="1785:2292" ph="{...}" />
+            <marker date="1562846043750" expanded="true" signature="1924:2128" ph="{...}" />
+            <marker date="1562846043750" expanded="true" signature="1992:2118" ph="{...}" />
+            <marker date="1562846043750" expanded="true" signature="2367:2874" ph="{...}" />
+            <marker date="1562846043750" expanded="true" signature="2506:2711" ph="{...}" />
+            <marker date="1562846043750" expanded="true" signature="2575:2701" ph="{...}" />
+            <marker date="1562846043750" expanded="true" signature="2949:3550" ph="{...}" />
+            <marker date="1562846043750" expanded="true" signature="3143:3325" ph="{...}" />
+            <marker date="1562846043750" expanded="true" signature="3622:4131" ph="{...}" />
+            <marker date="1562846043750" expanded="true" signature="3761:3963" ph="{...}" />
+            <marker date="1562846043750" expanded="true" signature="3827:3953" ph="{...}" />
+            <marker date="1562846043750" expanded="true" signature="4205:4715" ph="{...}" />
+            <marker date="1562846043750" expanded="true" signature="4344:4548" ph="{...}" />
+            <marker date="1562846043750" expanded="true" signature="4412:4538" ph="{...}" />
+            <marker date="1562846043750" expanded="true" signature="4803:5312" ph="{...}" />
+            <marker date="1562846043750" expanded="true" signature="4942:5145" ph="{...}" />
+            <marker date="1562846043750" expanded="true" signature="5009:5135" ph="{...}" />
+            <marker date="1562846043750" expanded="true" signature="5407:5912" ph="{...}" />
+            <marker date="1562846043750" expanded="true" signature="5546:5749" ph="{...}" />
+            <marker date="1562846043750" expanded="true" signature="5613:5739" ph="{...}" />
+            <marker date="1562846043750" expanded="true" signature="6002:6087" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ThirdParties/Best HTTP (Pro)/BestHTTP/WebSocket/WebSocketResponse.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-64">
+          <caret line="544" column="4" lean-forward="true" selection-start-line="544" selection-start-column="4" selection-end-line="544" selection-end-column="4" />
+          <folding>
+            <marker date="1555320042000" expanded="false" signature="73:235" ph="..." />
+            <marker date="1555320042000" expanded="true" signature="265:27880" ph="{...}" />
+            <marker date="1555320042000" expanded="true" signature="347:27878" ph="{...}" />
+            <marker date="1555320042000" expanded="true" signature="362:467" ph="/// Capacity of the RTT buffer where the latencies are kept. ... " />
+            <marker date="1555320042000" expanded="false" signature="526:2553" ph="Public Interface" />
+            <marker date="1555320042000" expanded="true" signature="560:687" ph="/// A reference to the original WebSocket instance. Used for accessing extensions. ... " />
+            <marker date="1555320042000" expanded="true" signature="755:839" ph="/// Called when a Text message received ... " />
+            <marker date="1555320042000" expanded="true" signature="906:992" ph="/// Called when a Binary message received ... " />
+            <marker date="1555320042000" expanded="true" signature="1061:1206" ph="/// Called when an incomplete frame received. No attempt will be made to reassemble these fragments. ... " />
+            <marker date="1555320042000" expanded="true" signature="1298:1381" ph="/// Called when the connection closed. ... " />
+            <marker date="1555320042000" expanded="true" signature="1458:1571" ph="/// Indicates whether the connection to the server is closed or not. ... " />
+            <marker date="1555320042000" expanded="true" signature="1637:1741" ph="/// On what frequency we have to send a ping to the server. ... " />
+            <marker date="1555320042000" expanded="true" signature="1811:1930" ph="/// Maximum size of a fragment's payload data. Its default value is 32767. ... " />
+            <marker date="1555320042000" expanded="true" signature="2000:2093" ph="/// Length of unsent, buffered up data in bytes. ... " />
+            <marker date="1555320042000" expanded="true" signature="2215:2336" ph="/// Calculated latency from the Round-Trip Times we store in the rtts field. ... " />
+            <marker date="1555320042000" expanded="true" signature="2395:2476" ph="/// When we received the last frame. ... " />
+            <marker date="1555320042000" expanded="false" signature="2563:3934" ph="Private Fields" />
+            <marker date="1555320042000" expanded="true" signature="3246:3344" ph="/// True if we sent out a Close message to the server ... " />
+            <marker date="1555320042000" expanded="true" signature="3395:3487" ph="/// True if this WebSocket connection is closed ... " />
+            <marker date="1555320042000" expanded="true" signature="3535:3615" ph="/// When we sent out the last ping. ... " />
+            <marker date="1555320042000" expanded="true" signature="3680:3809" ph="/// A circular buffer to store the last N rtt times calculated by the pong messages. ... " />
+            <marker date="1555320042000" expanded="true" signature="4102:4244" ph="{...}" />
+            <marker date="1555320042000" expanded="true" signature="4282:4626" ph="{...}" />
+            <marker date="1555320042000" expanded="true" signature="4320:4616" ph="{...}" />
+            <marker date="1555320042000" expanded="true" signature="4663:4842" ph="{...}" />
+            <marker date="1555320042000" expanded="false" signature="4852:12053" ph="Public interface for interacting with the server" />
+            <marker date="1555320042000" expanded="true" signature="4918:5025" ph="/// It will send the given message to the server in one frame. ... " />
+            <marker date="1555320042000" expanded="true" signature="5066:6124" ph="{...}" />
+            <marker date="1555320042000" expanded="true" signature="5617:6016" ph="{...}" />
+            <marker date="1555320042000" expanded="true" signature="6134:6238" ph="/// It will send the given data to the server in one frame. ... " />
+            <marker date="1555320042000" expanded="true" signature="6276:7032" ph="{...}" />
+            <marker date="1555320042000" expanded="true" signature="6578:6976" ph="{...}" />
+            <marker date="1555320042000" expanded="true" signature="7042:7153" ph="/// Will send count bytes from a byte array, starting from offset. ... " />
+            <marker date="1555320042000" expanded="true" signature="7218:8144" ph="{...}" />
+            <marker date="1555320042000" expanded="true" signature="7688:8088" ph="{...}" />
+            <marker date="1555320042000" expanded="true" signature="8154:8246" ph="/// It will send the given frame to the server. ... " />
+            <marker date="1555320042000" expanded="true" signature="8293:9331" ph="{...}" />
+            <marker date="1555320042000" expanded="true" signature="8593:9008" ph="{...}" />
+            <marker date="1555320042000" expanded="true" signature="9135:9286" ph="/* if (HTTPManager.Logger.Level &lt;= Logger.Loglevels.All) ... */" />
+            <marker date="1555320042000" expanded="true" signature="9341:9492" ph="/// It will send the given frame to the server by inserting the frame into the queue as the first element. ... " />
+            <marker date="1555320042000" expanded="true" signature="9541:10422" ph="{...}" />
+            <marker date="1555320042000" expanded="true" signature="9847:10264" ph="{...}" />
+            <marker date="1555320042000" expanded="true" signature="10473:10836" ph="{...}" />
+            <marker date="1555320042000" expanded="true" signature="10690:10813" ph="{...}" />
+            <marker date="1555320042000" expanded="true" signature="10846:10956" ph="/// It will initiate the closing of the connection to the server. ... " />
+            <marker date="1555320042000" expanded="true" signature="10984:11037" ph="{...}" />
+            <marker date="1555320042000" expanded="true" signature="11047:11157" ph="/// It will initiate the closing of the connection to the server. ... " />
+            <marker date="1555320042000" expanded="true" signature="11208:11542" ph="{...}" />
+            <marker date="1555320042000" expanded="true" signature="11591:12033" ph="{...}" />
+            <marker date="1555320042000" expanded="true" signature="12063:22050" ph="Private Threading Functions" />
+            <marker date="1555320042000" expanded="true" signature="12149:15058" ph="{...}" />
+            <marker date="1555320042000" expanded="true" signature="12250:14765" ph="{...}" />
+            <marker date="1555320042000" expanded="true" signature="12310:14751" ph="{...}" />
+            <marker date="1555320042000" expanded="true" signature="12349:12510" ph="/* if (HTTPManager.Logger.Level &lt;= Logger.Loglevels.All) ... */" />
+            <marker date="1555320042000" expanded="true" signature="12581:14250" ph="{...}" />
+            <marker date="1555320042000" expanded="true" signature="12992:13209" ph="/* if (HTTPManager.Logger.Level &lt;= Logger.Loglevels.All) ... */" />
+            <marker date="1555320042000" expanded="true" signature="13264:14187" ph="{...}" />
+            <marker date="1555320042000" expanded="true" signature="13495:14070" ph="{...}" />
+            <marker date="1555320042000" expanded="true" signature="13591:13742" ph="{...}" />
+            <marker date="1555320042000" expanded="true" signature="14290:14733" ph="{...}" />
+            <marker date="1555320042000" expanded="true" signature="14371:14562" ph="{...}" />
+            <marker date="1555320042000" expanded="true" signature="14785:15048" ph="{...}" />
+            <marker date="1555320042000" expanded="true" signature="15112:22030" ph="{...}" />
+            <marker date="1555320042000" expanded="true" signature="15138:21705" ph="{...}" />
+            <marker date="1555320042000" expanded="true" signature="15237:21691" ph="{...}" />
+            <marker date="1555320042000" expanded="true" signature="15291:21673" ph="{...}" />
+            <marker date="1555320042000" expanded="true" signature="15341:20718" ph="{...}" />
+            <marker date="1555320042000" expanded="true" signature="15598:15910" ph="/* A server MUST NOT mask any frames that it sends to the client.  A client MUST close a connection if it detects ... */" />
+            <marker date="1555320042000" expanded="true" signature="15957:16158" ph="{...}" />
+            <marker date="1555320042000" expanded="true" signature="16207:16555" ph="{...}" />
+            <marker date="1555320042000" expanded="true" signature="16604:20692" ph="{...}" />
+            <marker date="1555320042000" expanded="true" signature="16667:16904" ph="/* For a complete documentation and rules on fragmentation see http://tools.ietf.org/html/rfc6455##section-5.4 ... */" />
+            <marker date="1555320042000" expanded="true" signature="17217:17741" ph="{...}" />
+            <marker date="1555320042000" expanded="true" signature="18787:19571" ph="{...}" />
+            <marker date="1555320042000" expanded="true" signature="19650:20050" ph="{...}" />
+            <marker date="1555320042000" expanded="true" signature="19692:20012" ph="/* https://tools.ietf.org/html/rfc6455##section-5.5 ... */" />
+            <marker date="1555320042000" expanded="true" signature="20787:21068" ph="{...}" />
+            <marker date="1555320042000" expanded="true" signature="21119:21651" ph="{...}" />
+            <marker date="1555320042000" expanded="true" signature="21208:21414" ph="{...}" />
+            <marker date="1555320042000" expanded="true" signature="21725:22020" ph="{...}" />
+            <marker date="1555320042000" expanded="false" signature="22060:25516" ph="Sending Out Events" />
+            <marker date="1555320042000" expanded="true" signature="22096:22193" ph="/// Internal function to send out received messages. ... " />
+            <marker date="1555320042000" expanded="true" signature="22231:25496" ph="{...}" />
+            <marker date="1555320042000" expanded="true" signature="22481:24036" ph="{...}" />
+            <marker date="1555320042000" expanded="true" signature="22709:23858" ph="{...}" />
+            <marker date="1555320042000" expanded="true" signature="22767:23840" ph="{...}" />
+            <marker date="1555320042000" expanded="true" signature="23895:24022" ph="{...}" />
+            <marker date="1555320042000" expanded="true" signature="24083:24291" ph="/* 2015.05.09 ... */" />
+            <marker date="1555320042000" expanded="true" signature="24390:25486" ph="{...}" />
+            <marker date="1555320042000" expanded="true" signature="24424:25297" ph="{...}" />
+            <marker date="1555320042000" expanded="true" signature="24739:25225" ph="{...}" />
+            <marker date="1555320042000" expanded="true" signature="25334:25472" ph="{...}" />
+            <marker date="1555320042000" expanded="false" signature="25526:26306" ph="IHeartbeat Implementation" />
+            <marker date="1555320042000" expanded="true" signature="25616:26286" ph="{...}" />
+            <marker date="1555320042000" expanded="true" signature="25845:26276" ph="{...}" />
+            <marker date="1555320042000" expanded="true" signature="26379:26473" ph="{...}" />
+            <marker date="1555320042000" expanded="true" signature="26506:27109" ph="{...}" />
+            <marker date="1555320042000" expanded="true" signature="26573:26859" ph="{...}" />
+            <marker date="1555320042000" expanded="true" signature="26890:27099" ph="{...}" />
+            <marker date="1555320042000" expanded="true" signature="27162:27567" ph="{...}" />
+            <marker date="1555320042000" expanded="true" signature="27607:27872" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
