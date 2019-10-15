@@ -1,0 +1,39 @@
+
+
+local calc_mt = {
+        Day_Of_Week = function(self,yyyy, mm, dd)
+            if mm < 3 then yyyy = yyyy - 1 end
+    
+            m = (mm + 9) % 12 + 1
+            D = yyyy % 100
+            C = math.floor(yyyy / 100)
+            f = dd + math.floor( (13 * m - 1) / 5 ) + D + math.floor(D/4) + math.floor(C/4) - 2 * C             
+
+            return f % 7
+        end,
+        
+        Days_In_Month = function(self,yy, mm)
+            if ( mm == 1 or mm == 3 or mm == 5 or mm == 7 or mm == 8 or mm == 10 or mm == 12 )
+            then return 31
+            elseif ( mm == 2 ) 
+            then
+                if ( yy % 4 == 0 ) 
+                then
+                    return 29
+                else
+                    return 28
+                end
+            else
+                return 30
+            end
+        end
+}
+
+Calendar = {
+  New = function ()
+    return calc_mt
+  end
+}
+
+
+          

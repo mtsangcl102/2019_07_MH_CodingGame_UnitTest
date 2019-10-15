@@ -1,0 +1,38 @@
+local calDamage
+
+xlua.hotfix(CS.WrongFuncs, {
+    TempActiveAttackUp = function(self, multiplier) 
+        self._multiper = multiplier
+        
+        calDamage = function(oriDamage)
+            return self.CalDamageFunc(self, oriDamage)
+        end
+        
+        CS.CalDamageInstance.calDamageEvent("+", calDamage)
+    end;
+    
+    TempDeactiveAttackUp = function(self)
+        self._multiper = 1
+        calDamage = function(oriDamage)
+                    return self.CalDamageFunc(self, oriDamage)
+        end
+                
+        CS.CalDamageInstance.calDamageEvent("+", calDamage)
+    end;
+    
+    CalDamageFunc = function(self, oriDamage) 
+        if oriDamage < 10000 then
+            oriDamage = oriDamage * self._multiper
+        end
+        return oriDamage
+    end;
+    
+    PickMin = function(self, arr) 
+        local min = 9999999
+        for i = 0,5 do
+            if min > arr[i] then min = arr[i] end
+        end
+        print(min)
+        return min
+    end;
+})

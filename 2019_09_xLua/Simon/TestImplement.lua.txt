@@ -1,0 +1,39 @@
+local calc_mt = {
+    __index = {
+        Day_Of_Week = function ( self, dd, mm, yy )
+            local dt = CS.System.DateTime(dd, mm, yy)
+            local day = dt.DayOfWeek
+            if day == CS.System.DayOfWeek.Sunday then
+                return 0
+            end
+            if day == CS.System.DayOfWeek.Monday then
+                return 1
+            end
+            if day == CS.System.DayOfWeek.Tuesday then
+                return 2
+            end
+            if day == CS.System.DayOfWeek.Wednesday then
+                return 3
+            end
+            if day == CS.System.DayOfWeek.Thursday then
+                return 4
+            end
+            if day == CS.System.DayOfWeek.Friday then
+                return 5
+            end
+            if day == CS.System.DayOfWeek.Saturday then
+                return 6
+            end                
+        end,
+        
+        Days_In_Month = function ( self, year, month )
+            return CS.System.DateTime.DaysInMonth(year, month)
+        end
+    }
+}
+
+Calendar = {
+    New = function ()
+        return setmetatable({},calc_mt)
+    end
+}

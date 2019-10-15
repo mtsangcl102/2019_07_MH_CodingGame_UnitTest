@@ -1,0 +1,26 @@
+xlua.hotfix(CS.WrongFuncs, 'CalDamageFunc', function(self, a)													
+	if a < 10000 then return a * self._multiper end
+	return a
+end)
+
+xlua.hotfix(CS.WrongFuncs, 'PickMin', function(self, a)
+	local b = 9999
+	for i = 0, a.Length - 1 do
+		if a[ i ] < b then b = a[ i ] end
+	end
+	return b	                  
+end)
+
+local CalDamageFunc1
+
+xlua.hotfix(CS.WrongFuncs, 'TempActiveAttackUp', function(self, a)
+	self._multiper = a
+	CalDamageFunc1 = function( aa )
+		return self:CalDamageFunc( aa )
+	end
+	CS.CalDamageInstance.calDamageEvent('+', CalDamageFunc1 )
+end)
+
+xlua.hotfix(CS.WrongFuncs, 'TempDeactiveAttackUp', function(self)
+	CS.CalDamageInstance.calDamageEvent('-', CalDamageFunc1 )
+end)

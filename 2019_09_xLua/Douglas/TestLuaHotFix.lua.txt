@@ -1,0 +1,26 @@
+xlua.hotfix(CS.WrongFuncs, {
+    PickMin = function(self,array)
+        CS.System.Array.Sort(array)
+        return array[0]
+    end,
+    CalDamageFunc = function(self, oriDamage)
+        if oriDamage < 10000 then
+            oriDamage = oriDamage * self._multiper
+        end
+           return oriDamage 
+    end,
+
+    TempActiveAttackUp = function(self, multiper)
+        self._multiper = multiper
+        
+        _calfunc = function( Damage )
+            return self.CalDamageFunc(self, Damage)
+        end
+        
+        CS.CalDamageInstance.calDamageEvent('+', _calfunc)
+    end, 
+
+    TempDeactiveAttackUp = function()
+        CS.CalDamageInstance.calDamageEvent('-', _calfunc)
+    end
+})

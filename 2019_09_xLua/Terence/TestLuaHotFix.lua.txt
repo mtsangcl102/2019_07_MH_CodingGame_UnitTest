@@ -1,0 +1,32 @@
+-- answer
+xlua.hotfix(CS.CalDamageInstance, 'CalDamageEvent', function(a)
+    if a < 10000 then
+      print('CalDamageEvent', a, a * multiplier)
+      return a * multiplier
+    else
+      print('CalDamageEvent', a, a)
+      return a
+    end
+end)
+
+-- answer
+xlua.hotfix(CS.WrongFuncs, 'TempActiveAttackUp', function(self, minValue)
+  multiplier = minValue
+end)
+
+-- answer
+xlua.hotfix(CS.WrongFuncs, 'TempDeactiveAttackUp', function(self, minValue)
+  multiplier = 1
+end)
+
+-- answer
+xlua.hotfix(CS.WrongFuncs, 'PickMin', function(self, values)
+  local min = 1000000000
+  
+  for index = 0, values.Length - 1 do
+    if values[index] < min then
+      min = values[index]
+    end
+  end
+  return min
+end)

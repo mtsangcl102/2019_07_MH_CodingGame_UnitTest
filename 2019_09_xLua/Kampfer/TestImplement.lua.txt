@@ -1,0 +1,38 @@
+Calendar = {
+	New = function ( self )
+        return {
+
+			Day_Of_Week = function( self , dd , mm , yy )
+				mmx = mm
+
+				if ( mm == 1 ) then mmx = 13; yy = yy-1 end
+				if ( mm == 2 ) then mmx = 14; yy = yy-1 end
+
+				val8 = dd + ( mmx * 2 ) + math.floor( ( ( mmx + 1 ) * 3 ) / 5 ) + yy + math.floor( yy / 4 ) - math.floor( yy / 100 ) + math.floor( yy / 400 ) + 2
+				val9 = math.floor( val8 / 7 )
+				dw = val8 - ( val9 * 7 ) 
+
+				if ( dw == 0 ) then
+				dw = 7
+				end
+
+				return dw
+			end,
+
+			Days_In_Month = function( self , year , month)
+				days_in_month = { 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 }   
+				days = days_in_month[month]
+   
+				if ( month == 2 ) then
+					if year % 4 == 0 and ( year % 100 ~= 0 or year % 400 == 0 ) then
+						days = 29
+					end
+				end
+				return days
+			end,
+		}
+    end
+}
+
+
+

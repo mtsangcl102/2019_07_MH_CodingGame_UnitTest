@@ -1,0 +1,15 @@
+Calendar = {
+    New = function (mult, ...)
+        return setmetatable({Mult = mult, list = {'aaaa','bbbb','cccc'}}, {
+            __index = {
+                Days_In_Month = function(self, year, month)
+                    return CS.System.DateTime.DaysInMonth(year, month)
+                end,
+                
+                Day_Of_Week =  function(self, day, month, year)
+                    return os.date("%w", year, month, day) + 1
+                end,
+            }
+        })
+    end
+}

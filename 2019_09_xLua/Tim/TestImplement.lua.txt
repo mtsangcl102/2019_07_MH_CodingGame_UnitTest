@@ -1,0 +1,20 @@
+CS.UnityEngine.Debug.Log('hello world')
+
+local calendar_mt = {
+    __index = {
+        Days_In_Month = function(self, year, month)
+            return CS.System.DateTime.DaysInMonth(year,month)
+        end,
+        
+        Day_Of_Week = function(self, yy, mm, dd)
+            local d = CS.System.DateTime(yy,mm,dd)
+            return CS.System.Convert.ToInt32(d.DayOfWeek)
+        end
+     }
+}
+
+Calendar = {
+    New = function ()
+        return setmetatable({},calendar_mt)
+    end
+}

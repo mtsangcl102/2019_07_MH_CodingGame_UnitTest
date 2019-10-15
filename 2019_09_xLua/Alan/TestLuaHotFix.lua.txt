@@ -1,0 +1,61 @@
+local util = require 'xlua.util'
+local hotFix_calDamageEvent = {}
+
+xlua.hotfix( CS.CalDamageInstance, {    
+    CalDamageEvent = function(__oriDamage)        
+        for _,v in ipairs( hotFix_calDamageEvent ) do
+            __oriDamage = v( __oriDamage )
+        end   
+        return __oriDamage
+    end,
+})
+
+xlua.hotfix( CS.WrongFuncs, {    
+    ['.ctor'] = function(csobj)
+        util.state(csobj, {            
+            hot_fix_CalDamageFunc = function (oriDamage)                                                   
+                return oriDamage, oriDamage
+            end
+        })    
+    end,
+    
+    PickMin = function(self, intArr)
+        _min = 99999 
+                
+        for i = 0, intArr.Length-1 do
+            if intArr[i] < _min then
+                _min = intArr[i]
+            end
+        end              
+
+        return _min
+    end,   
+    
+    TempActiveAttackUp = function( self, multi )
+        self._multiper = multi
+        
+        hot_fix_CalDamageFunc = function (oriDamage)
+            damage = oriDamage
+            if damage < 10000 then
+                damage = damage * self._multiper
+            end                                                                  
+            return damage, damage
+        end
+
+        table.insert( hotFix_calDamageEvent, hot_fix_CalDamageFunc)
+    end,
+    
+    TempDeactiveAttackUp = function( self )
+        toRemoveIndex = -1
+        for _,v in ipairs( hotFix_calDamageEvent ) do
+            if v == hot_fix_CalDamageFunc then
+                toRemoveIndex = _
+            end
+        end
+                
+        if toRemoveIndex ~= -1 then
+            table.remove( hotFix_calDamageEvent, toRemoveIndex)
+        end
+    end,
+    
+})

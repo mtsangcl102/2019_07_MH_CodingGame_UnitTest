@@ -1,0 +1,18 @@
+local calendar_mt = {
+    calendar_function = {
+        
+        Days_In_Month = function(self, y, m)
+            return CS.System.DateTime.DaysInMonth(y, m)
+        end,
+        Day_Of_Week = function(self, y, m, d)
+            return os.date("%w", y, m, d) + 1
+        end
+    }
+}
+
+
+Calendar = {
+    New = function ()
+        return calendar_mt.calendar_function
+    end
+}

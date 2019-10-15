@@ -1,0 +1,32 @@
+-- answer
+Calendar = {
+  New = function() 
+    callback = {}
+    callback.Day_Of_Week = function(ref, yy, mm, dd)
+      dw=os.date('*t',os.time{year=yy,month=mm,day=dd})['wday']
+      return dw - 1
+    end
+    
+    callback.Days_In_Month = function(ref, year, month)
+      local days_in_month = { 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 }   
+      local d = days_in_month[month]
+       
+      -- check for leap year
+      if (month == 2) then
+        if (year % 4 == 0) then
+         if (year % 100 == 0)then                
+          if (year% 400 == 0) then                    
+              d = 29
+          end
+         else                
+          d = 29
+         end
+        end
+      end
+    
+      return d  
+    end
+    
+    return callback
+  end
+}

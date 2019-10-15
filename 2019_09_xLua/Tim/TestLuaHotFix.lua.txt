@@ -1,0 +1,47 @@
+require 'xlua.util'
+obj = nil 
+
+xlua.hotfix(CS.WrongFuncs, 'PickMin', function(self,arr)
+    local min = arr[0]
+    
+    for i = 0,arr.Length-1 do
+        min = math.min(arr[i],min)
+    end
+    return min
+end)
+
+xlua.hotfix(CS.WrongFuncs, 'TempActiveAttackUp', function(self,multi)
+    self._multiper = multi
+    obj = self 
+    CS.CalDamageInstance.calDamageEvent = {}
+    table.insert(CS.CalDamageInstance.calDamageEvent, self.CalDamageFunc)
+end)
+
+xlua.hotfix(CS.WrongFuncs, 'TempDeactiveAttackUp', function(self)
+    for i=1, #CS.CalDamageInstance.calDamageEvent do
+        if CS.System.Object.Equals(CS.CalDamageInstance.calDamageEvent[i], self.CalDamageFunc) then
+            table.remove(CS.CalDamageInstance.calDamageEvent, i)
+            break
+        end
+    end
+
+end)
+
+
+xlua.hotfix(CS.WrongFuncs, 'CalDamageFunc', function(self,OriDamage)
+    if OriDamage < 10000 then
+        OriDamage = OriDamage * self._multiper
+    end 
+    return OriDamage
+end)
+
+xlua.hotfix(CS.CalDamageInstance, 'CalDamageEvent', function(OriDamage)
+    if CS.CalDamageInstance.calDamageEvent ~= nil then
+        for i=1, #CS.CalDamageInstance.calDamageEvent do
+            OriDamage = CS.CalDamageInstance.calDamageEvent[i](obj, OriDamage)
+        end
+    end 
+    return OriDamage
+end)
+
+

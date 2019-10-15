@@ -1,0 +1,16 @@
+calc_mt = {
+
+		Days_In_Month = function(self, year, month)
+			return CS.System.DateTime.DaysInMonth(year, month)
+		end,
+
+		Day_Of_Week = function(self, yy, mm, dd)
+			return os.date( "%w", os.time{year=yy,month=mm,day=dd} )
+		end,
+}
+
+Calendar = {
+	New = function ()
+        return calc_mt
+    end
+}

@@ -1,0 +1,17 @@
+local calc_mt = {
+    calendarnew = {
+        Day_Of_Week = function (self, dd, mm, yy)
+        return (os.date("%w", dd,mm,yy) + 1) % 7
+        end,
+        
+        Days_In_Month = function(self, year, month)
+        return CS.System.DateTime.DaysInMonth(year, month)
+        end
+    }    
+}
+
+Calendar = {
+    New = function ()        
+        return calc_mt.calendarnew
+    end
+}

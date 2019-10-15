@@ -1,0 +1,35 @@
+local _multiper = 0
+
+xlua.hotfix(CS.WrongFuncs, {
+    PickMin = function(self, arr)
+        result = arr[0]
+        for i = 0 , arr.Length - 1 do
+            if arr[i] < result then
+                result = arr[i]
+            end
+        end
+        return result
+    end;
+
+    CalDamageFunc = function(self, OriDamge)
+    end;
+
+    TempActiveAttackUp = function(self, multiper)
+        _multiper = multiper
+    end;
+
+    TempDeactiveAttackUp = function(self)
+        _multiper = 0
+    end;
+})
+
+xlua.hotfix(CS.CalDamageInstance, {
+    CalDamageEvent = function(OriDamge)
+        if _multiper > 0 then
+            if OriDamge < 10000 then
+                OriDamge = OriDamge * _multiper
+            end
+        end
+        return OriDamge
+    end;
+})

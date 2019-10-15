@@ -1,0 +1,15 @@
+Calendar = {
+
+    New = function ()
+        return Calendar
+    end,
+    
+    Days_In_Month = function (self, year, month)
+        return CS.System.DateTime.DaysInMonth(year, month)
+    end,
+                
+    Day_Of_Week = function (self, yy, mm, dd)
+        local weekday = CS.System.DateTime(yy, mm, dd).DayOfWeek
+        return CS.System.Convert.ChangeType(weekday, CS.System.TypeCode.Int32)
+    end
+}

@@ -1,0 +1,37 @@
+callback = nil
+
+xlua.hotfix(CS.WrongFuncs, {
+
+    PickMin = function(self,array)
+        len = array.Length
+        min = 999999999
+        for i=0, len-1, 1 do
+            if array[i] < min then 
+                min = array[i]
+            end
+        end
+
+        return min        
+    end;
+    
+    CalDamageFunc = function(self, OriDamge)
+        if OriDamge < 10000 then 
+            OriDamge = OriDamge * self._multiper
+        end
+        return OriDamge
+    end;
+    
+    TempActiveAttackUp = function(self, multiper)
+        self._multiper = multiper    
+        
+        callback = function(damage)
+            return self.CalDamageFunc(self,damage)
+        end
+        CS.CalDamageInstance.calDamageEvent('+', callback)
+    end;
+    
+    TempDeactiveAttackUp = function(self)
+        CS.CalDamageInstance.calDamageEvent( '-' , callback )
+    end
+    }
+)

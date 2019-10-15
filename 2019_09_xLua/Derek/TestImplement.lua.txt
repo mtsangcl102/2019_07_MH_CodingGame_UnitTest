@@ -1,0 +1,25 @@
+local calender_m = {
+    __index = {
+        Day_Of_Week = function(self, y, m, d)
+            return os.date('*t', os.time{year = y, month = m, day = d})['wday'] - 1
+        end,
+    
+        Days_In_Month = function(self, y, m)
+            return os.date('*t', os.time{year = y, month = m+1, day = 0})['day']
+        end
+    }
+}
+
+Calendar = {
+    New = function() 
+        return setmetatable({}, calender_m) 
+    end,
+    
+    Day_Of_Week = function(self, y, m, d)
+        return os.date('*t', os.time{year = y, month = m, day = d})['wday'] - 1
+    end,
+    
+    Days_In_Month = function(self, y, m)
+        return os.date('*t', os.time{year = y, month = m, day = 0})['day']
+    end
+}

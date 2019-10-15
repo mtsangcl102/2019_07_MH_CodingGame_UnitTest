@@ -1,0 +1,66 @@
+
+local calc_mt2 = {
+    __index = {
+
+        Day_Of_Week = function(self, yy, mm, dd )
+			local time = os.date( "%A", os.time({year =yy, month = mm, day =dd} ) );
+			if time == "Monday" then return 1 end
+			if time == "Tuesday" then return 2 end
+			if time == "Wednesday" then return 3 end
+			if time == "Thursday" then return 4 end
+			if time == "Friday" then return 5 end
+			if time == "Saturday" then return 6 end
+			return 7
+        end,
+
+		Days_In_Month = function(self, year, month)
+			return CS.System.DateTime.DaysInMonth(year,month)
+		end,
+
+        Add = function(self, a, b)
+            return (a + b) * self.Mult
+        end,
+                        
+        get_Item = function(self, index)
+            return self.list[index + 1]
+        end,
+
+        set_Item = function(self, index, value)
+            self.list[index + 1] = value
+            self:notify({name = index, value = value})
+        end,
+                        
+        add_PropertyChanged = function(self, delegate)
+	        if self.notifylist == nil then
+		        self.notifylist = {}
+	        end
+	        table.insert(self.notifylist, delegate)
+            print('add',delegate)
+        end,
+                                                
+        remove_PropertyChanged = function(self, delegate)
+            for i=1, #self.notifylist do
+		        if CS.System.Object.Equals(self.notifylist[i], delegate) then
+			        table.remove(self.notifylist, i)
+			        break
+		        end
+	        end
+            print('remove', delegate)
+        end,
+
+        notify = function(self, evt)
+	        if self.notifylist ~= nil then
+		        for i=1, #self.notifylist do
+			        self.notifylist[i](self, evt)
+		        end
+	        end	
+        end,
+    }
+}
+
+
+Calendar = {
+	New = function ()
+        return setmetatable({}, calc_mt2)
+    end
+}
